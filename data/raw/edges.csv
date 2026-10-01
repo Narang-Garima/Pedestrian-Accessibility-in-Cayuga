@@ -1,0 +1,987 @@
+from,to,osmid,street_name,highway,lanes,maxspeed,oneway,reversed,length,bridge,service,access,crossing,crossing_markings,surface,lit,sidewalk,footway_type
+416694987,6463584760,67222638,Munsee Street North,secondary,2,50,FALSE,FALSE,6.114354516914986,,,,no,,asphalt,yes,right,
+416694987,6463584763,67222638,Munsee Street North,secondary,2,50,FALSE,TRUE,9.588805044425742,,,,no,,asphalt,yes,right,
+416694987,6463584766,67226665,Kerr Street East,residential,2,nan,FALSE,TRUE,9.446808657612381,,,,no,,asphalt,no,no,
+416694987,6463584750,67225880,Kerr Street West,residential,2,nan,FALSE,TRUE,111.90802481019826,,,,no,,asphalt,no,no,
+416695612,4087046866,67222638,Munsee Street North,secondary,2,50,FALSE,FALSE,34.66142595747733,,,,no,,asphalt,yes,right,
+416695612,416698555,67222638,Munsee Street North,secondary,2,50,FALSE,TRUE,102.55300819775778,,,,no,,asphalt,yes,right,
+416695612,811747669,67222694,Echo Street East,residential,2,nan,FALSE,FALSE,122.1868614527576,,,,no,,asphalt,no,no,
+416695612,4087046855,67223587,Echo Street West,residential,2,nan,FALSE,TRUE,83.17813314500263,,,,no,,asphalt,no,no,
+416696374,811783975,67226042,Latham Street,residential,2,nan,FALSE,TRUE,124.46176449195235,,,,no,,asphalt,no,no,
+416696374,7168038590,67226303,Highway 54 Haldimand,secondary,2,70,FALSE,FALSE,347.9622966756693,,,,no,,asphalt,no,no,
+416696374,416697040,67223997,Munsee Street North,secondary,2,70,FALSE,TRUE,163.24394832527423,,,,no,,asphalt,no,no,
+416696374,416697040,391850111,Munsee Street North,secondary,2,70,FALSE,TRUE,163.24394832527423,,,,no,,asphalt,no,no,
+416697040,3912831202,1013604447,Indian Street East,residential,2,nan,FALSE,FALSE,8.091323516236338,,,,no,,asphalt,no,no,
+416697040,416699005,67222819,Munsee Street North,secondary,2,50,FALSE,TRUE,233.1085951630102,yes,,,no,,asphalt,no,no,
+416697040,416699005,67223628,Munsee Street North,secondary,2,50,FALSE,TRUE,233.1085951630102,yes,,,no,,asphalt,no,no,
+416697040,416699005,1013604446,Munsee Street North,secondary,2,50,FALSE,TRUE,233.1085951630102,yes,,,no,,asphalt,yes,right,
+416697040,416696374,67223997,Munsee Street North,secondary,2,70,FALSE,FALSE,163.24394832527423,,,,no,,asphalt,no,no,
+416697040,416696374,391850111,Munsee Street North,secondary,2,70,FALSE,FALSE,163.24394832527423,,,,no,,asphalt,no,no,
+416698555,416695612,67222638,Munsee Street North,secondary,2,50,FALSE,FALSE,102.55300819775778,,,,no,,asphalt,yes,right,
+416698555,6463584754,67222638,Munsee Street North,secondary,2,50,FALSE,TRUE,91.06050490234277,,,,no,,asphalt,yes,right,
+416698555,3951688536,67225816,Norton Street West,residential,2,nan,FALSE,TRUE,112.55185311293693,,,,no,,asphalt,no,right,
+416698555,811778192,67227293,Norton Street East,residential,2,nan,FALSE,FALSE,122.54262626985997,,,,no,,asphalt,no,no,
+416699005,4087046875,67222638,Munsee Street North,secondary,2,50,FALSE,TRUE,153.07406585260574,,,,no,,asphalt,yes,right,
+416699005,7168038498,67224878,Victoria Street,residential,2,nan,FALSE,TRUE,57.90397435857085,,,,no,,asphalt,no,no,
+416699005,6463579940,689055743,,footway,,nan,FALSE,TRUE,70.90222720601437,,,,no,,no,no,no,sidewalk
+416699005,416697040,67222819,Munsee Street North,secondary,2,50,FALSE,FALSE,233.1085951630102,yes,,,no,,asphalt,no,no,
+416699005,416697040,67223628,Munsee Street North,secondary,2,50,FALSE,FALSE,233.1085951630102,yes,,,no,,asphalt,no,no,
+416699005,416697040,1013604446,Munsee Street North,secondary,2,50,FALSE,FALSE,233.1085951630102,yes,,,no,,asphalt,yes,right,
+416699079,811751549,67223086,Highway 3,primary,2,60,FALSE,FALSE,378.09940277612424,,,,no,,asphalt,no,none,
+416699079,7270847031,67222947,River Road,residential,2,nan,FALSE,TRUE,171.98499082916172,,,,no,,asphalt,no,none,
+416699079,416701237,67224617,River Road,residential,2,60,FALSE,FALSE,476.38660905059834,,,,no,,no,no,no,
+416701237,811775022,67222778,King George Street,residential,2,nan,FALSE,FALSE,783.6863327951698,,,,no,,unpaved,no,no,
+416701237,811775022,67226716,King George Street,residential,2,nan,FALSE,FALSE,783.6863327951698,,,,no,,unpaved,no,no,
+416701237,416699079,67224617,River Road,residential,2,60,FALSE,TRUE,476.38660905059834,,,,no,,no,no,no,
+416701631,811756186,66929818,"['Thorburn Street South', 'Haldimand Road 17']",secondary,2,nan,FALSE,FALSE,1477.303637007003,,,,no,,no,no,no,
+416701631,811756186,67225626,"['Thorburn Street South', 'Haldimand Road 17']",secondary,2,nan,FALSE,FALSE,1477.303637007003,,,,no,,asphalt,no,none,
+416701631,811756186,67227122,"['Thorburn Street South', 'Haldimand Road 17']",secondary,2,nan,FALSE,FALSE,1477.303637007003,,,,no,,asphalt,no,none,
+416701980,811779065,67222720,River Road,residential,2,nan,FALSE,FALSE,1024.575175760286,,,,no,,asphalt,no,none,
+416702244,6463584754,67222638,Munsee Street North,secondary,2,50,FALSE,FALSE,8.986353738651104,,,,no,,asphalt,yes,right,
+416702244,6463584757,67222638,Munsee Street North,secondary,2,50,FALSE,TRUE,9.292623505152172,,,,no,,asphalt,yes,right,
+416702244,6463584749,67223286,Mohawk Street West,residential,2,nan,FALSE,TRUE,113.72683399922788,,,,no,,asphalt,no,no,
+416702244,811754035,67223312,Mohawk Street East,residential,2,nan,FALSE,FALSE,121.60645286547393,,,,no,,asphalt,no,no,
+705613710,7168038632,687284961,"['Grand Vista Trail', 'Grand Vista']",footway,,nan,FALSE,TRUE,570.9200535015549,yes,,,no,,no,no,no,
+705613710,7168038632,1330449866,"['Grand Vista Trail', 'Grand Vista']",footway,,nan,FALSE,TRUE,570.9200535015549,yes,,,no,,no,no,no,
+705613710,7168038632,687284959,"['Grand Vista Trail', 'Grand Vista']",footway,,nan,FALSE,TRUE,570.9200535015549,yes,,,no,,no,no,no,
+811747669,811778568,67222694,Echo Street East,residential,2,nan,FALSE,FALSE,239.00448384014157,,,,no,,asphalt,no,no,
+811747669,416695612,67222694,Echo Street East,residential,2,nan,FALSE,TRUE,122.1868614527576,,,,no,,asphalt,no,no,
+811747669,811777251,67224605,Winnett Street North,residential,2,nan,FALSE,FALSE,300.53202328600923,,,,no,,asphalt,no,no,
+811747669,811778192,67224605,Winnett Street North,residential,2,nan,FALSE,TRUE,101.59585728515275,,,,no,,asphalt,no,no,
+811747885,811782318,67224237,Fishcarrier Street North,residential,2,nan,FALSE,TRUE,145.59378479508285,,,,no,,asphalt,no,no,
+811748222,811782318,67222824,Obadiah Street,residential,2,nan,FALSE,FALSE,59.308266995317716,,,,no,,asphalt,no,no,
+811748224,811767102,67223305,Tuscarora Street West,residential,2,nan,FALSE,FALSE,115.19452359209512,,,,no,,asphalt,no,no,
+811748224,811757177,67222625,Ouse Street,residential,2,nan,FALSE,FALSE,203.57503724113005,,,,no,,asphalt,no,no,
+811748224,811759820,67222625,Ouse Street,residential,2,nan,FALSE,TRUE,105.60045611810733,,,,no,,asphalt,no,no,
+811749702,811761633,67223431,Cayuga Street South,residential,2,nan,FALSE,FALSE,67.60216799564458,,,,no,,asphalt,no,no,
+811749702,811778739,67223431,Cayuga Street South,residential,2,nan,FALSE,TRUE,75.51632012979164,,,,no,,asphalt,no,no,
+811749702,811784572,67224556,McKay Street West,residential,2,nan,FALSE,FALSE,55.98894779742528,,,,no,,asphalt,no,no,
+811750159,3912831202,67223970,Indian Street East,residential,2,nan,FALSE,TRUE,359.9547501665451,,,,no,,asphalt,no,no,
+811750529,811777026,67223459,Railton Road,residential,2,nan,FALSE,TRUE,47.544830778529544,,,,no,,asphalt,no,no,
+811751549,416699079,67223086,Highway 3,primary,2,60,FALSE,TRUE,378.09940277612424,,,,no,,asphalt,no,none,
+811751549,811775022,67226632,Maple Road,residential,2,nan,FALSE,FALSE,255.2605397532159,,,,no,,asphalt,no,none,
+811751549,811775022,67226790,Maple Road,residential,2,nan,FALSE,FALSE,255.2605397532159,,,,no,,asphalt,no,no,
+811751549,811766886,391907401,"['Highway 3', 'Talbot Street West']",primary,2,60,FALSE,FALSE,371.24926579399823,yes,,,no,,asphalt,no,none,
+811751549,811766886,67223395,"['Highway 3', 'Talbot Street West']",primary,2,60,FALSE,FALSE,371.24926579399823,yes,,,no,,asphalt,no,no,
+811751549,811766886,332885844,"['Highway 3', 'Talbot Street West']",primary,2,60,FALSE,FALSE,371.24926579399823,yes,,,no,,no,no,no,
+811751861,811754035,67223312,Mohawk Street East,residential,2,nan,FALSE,TRUE,195.68584166438018,,,,no,,asphalt,no,no,
+811751988,811767501,67223822,King Street,residential,2,nan,FALSE,FALSE,20.35809487427305,,,,no,,asphalt,no,no,
+811751988,7158861376,67223822,King Street,residential,2,nan,FALSE,TRUE,20.474004221539005,,,,no,,asphalt,no,no,
+811751988,7158861367,766496830,,service,,nan,FALSE,TRUE,9.321749149,,parking_aisle,,no,,asphalt,no,no,
+811752200,811778543,67223545,Martin Street,residential,2,nan,FALSE,FALSE,119.10744281104732,,,,no,,asphalt,no,no,
+811752200,811755655,67223545,Martin Street,residential,2,nan,FALSE,TRUE,201.9321509763694,,,,no,,asphalt,no,no,
+811752200,811776910,67225082,"['Mohawk Street East', 'Johnson Street']",residential,2,nan,FALSE,FALSE,318.2115245833087,,,,no,,asphalt,no,no,
+811752200,811776910,67225693,"['Mohawk Street East', 'Johnson Street']",residential,2,nan,FALSE,FALSE,318.2115245833087,,,,no,,asphalt,no,no,
+811752903,7158861240,67223887,Joseph Street West,residential,2,nan,FALSE,TRUE,66.69269303858049,,,,no,,asphalt,no,no,
+811752903,811762195,67227230,"['South End Drive', 'Sunset Lane']",residential,2,nan,FALSE,TRUE,215.69817940522375,,,,no,,asphalt,no,no,
+811752903,811762195,67223127,"['South End Drive', 'Sunset Lane']",residential,2,nan,FALSE,TRUE,215.69817940522375,,,,no,,asphalt,no,no,
+811752903,811756186,67223887,Joseph Street West,residential,2,nan,FALSE,FALSE,117.08882601519696,,,,no,,asphalt,no,no,
+811753097,811754697,67223061,Ottawa Street South,residential,2,nan,FALSE,FALSE,104.76733604268617,,,,no,,asphalt,no,no,
+811753097,811781696,67223061,Ottawa Street South,residential,2,nan,FALSE,TRUE,96.22041385051169,,,,no,,asphalt,no,no,
+811753097,6463584717,67227265,Brant Street West,residential,2,nan,FALSE,FALSE,9.424228112326423,,,,no,,asphalt,no,no,
+811753097,6463584722,67227265,Brant Street West,residential,2,nan,FALSE,TRUE,7.509817213059621,,,,no,,asphalt,no,no,
+811753650,811775136,67223718,Ottawa Street North,residential,2,nan,FALSE,FALSE,46.02153788575956,,,,no,,asphalt,no,no,
+811753650,811774790,67223718,Ottawa Street North,residential,2,nan,FALSE,TRUE,57.28502865678129,,,,no,,asphalt,no,no,
+811753650,811766415,766496840,Cayuga Street North,residential,2,nan,FALSE,TRUE,67.80661842840422,,,,no,,asphalt,no,no,
+811753766,6463579937,67223587,Echo Street West,residential,2,nan,FALSE,FALSE,62.59218520474314,,,,no,,asphalt,no,no,
+811754035,811751861,67223312,Mohawk Street East,residential,2,nan,FALSE,FALSE,195.68584166438018,,,,no,,asphalt,no,no,
+811754035,811778192,67224605,Winnett Street North,residential,2,nan,FALSE,FALSE,99.71411543548103,,,,no,,asphalt,no,no,
+811754035,811755817,67224605,Winnett Street North,residential,2,nan,FALSE,TRUE,102.55071487730089,,,,no,,asphalt,no,no,
+811754035,416702244,67223312,Mohawk Street East,residential,2,nan,FALSE,TRUE,121.60645286547393,,,,no,,asphalt,no,no,
+811754260,811766857,67222702,Commodore Road,residential,2,nan,FALSE,FALSE,94.65266403340537,,,,no,,asphalt,no,no,
+811754260,6463602031,67222702,Commodore Road,residential,2,nan,FALSE,TRUE,64.43908642975633,,,,no,,asphalt,no,no,
+811754260,2516245715,67225535,Essex Road,residential,2,nan,FALSE,FALSE,103.60487866322546,,,,no,,asphalt,no,no,
+811754697,811753097,67223061,Ottawa Street South,residential,2,nan,FALSE,TRUE,104.76733604268617,,,,no,,asphalt,no,no,
+811754697,6463584716,67224556,McKay Street West,residential,2,nan,FALSE,FALSE,7.80639627,,,,no,,asphalt,no,no,
+811754697,6463584712,67223061,Ottawa Street South,residential,2,nan,FALSE,FALSE,90.08393080379996,,,,no,,asphalt,no,no,
+811754697,6463584707,67224556,McKay Street West,residential,2,nan,FALSE,TRUE,113.15607885260242,,,,no,,asphalt,no,no,
+811754844,7158861394,67222714,Thorburn Street South,secondary,2,nan,FALSE,FALSE,112.32887851943006,,,,no,,asphalt,no,no,
+811754844,2516245716,67222714,Thorburn Street South,secondary,2,nan,FALSE,TRUE,62.64045158,,,,no,,asphalt,no,no,
+811754844,7158840219,67223564,Princess Street East,residential,2,nan,FALSE,FALSE,7.702973001460058,,,,no,,unpaved,no,no,
+811754844,7158861392,766496832,,service,,nan,FALSE,TRUE,36.39507577566257,,parking_aisle,,no,,asphalt,no,no,
+811755192,4087046855,67223587,Echo Street West,residential,2,nan,FALSE,FALSE,36.94129671807506,,,,no,,asphalt,no,no,
+811755192,6463579937,67223587,Echo Street West,residential,2,nan,FALSE,TRUE,9.713693430950059,,,,no,,asphalt,no,no,
+811755192,6463579950,67227306,Ottawa Street North,residential,2,nan,FALSE,TRUE,23.288468340535786,,,,no,,asphalt,no,left,
+811755192,4087046859,406657486,,service,,nan,FALSE,TRUE,31.12364735004035,,parking_aisle,,no,,asphalt,no,no,
+811755655,7158861398,67222822,Talbot Street East,primary,2,50,FALSE,FALSE,62.31670075386815,,,,no,,asphalt,no,no,
+811755655,811752200,67223545,Martin Street,residential,2,nan,FALSE,FALSE,201.9321509763694,,,,no,,asphalt,no,no,
+811755655,7158861403,406657487,,service,,nan,FALSE,FALSE,28.299556443139384,,parking_aisle,,no,,asphalt,no,no,
+811755655,811765499,501561429,Talbot Street East,primary,2,50,FALSE,TRUE,239.15970561166858,,,,no,,asphalt,yes,no,
+811755781,811774790,67223718,Ottawa Street North,residential,2,nan,FALSE,FALSE,97.37598611714263,,,,no,,asphalt,no,no,
+811755781,811756661,67223718,Ottawa Street North,residential,2,nan,FALSE,TRUE,53.56958035,,,,no,,asphalt,no,no,
+811755781,6463584750,67225880,Kerr Street West,residential,2,nan,FALSE,FALSE,11.221352734148217,,,,no,,asphalt,no,no,
+811755781,6463579966,689055750,,footway,,nan,FALSE,TRUE,49.538481602078576,,,,no,,no,no,no,sidewalk
+811755817,811754035,67224605,Winnett Street North,residential,2,nan,FALSE,FALSE,102.55071487730089,,,,no,,asphalt,no,no,
+811755817,7158861335,67224605,Winnett Street North,residential,2,nan,FALSE,TRUE,61.06509738799529,,,,no,,asphalt,no,no,
+811755817,7158840221,67226665,Kerr Street East,residential,2,nan,FALSE,TRUE,4.991161479786151,,,,no,,asphalt,no,no,
+811755817,6463584766,67226665,Kerr Street East,residential,2,nan,FALSE,FALSE,112.05771272917409,,,,no,,asphalt,no,no,
+811756161,9525603774,1033983667,,service,,nan,FALSE,FALSE,10.467826265672779,,parking_aisle,destination,no,,asphalt,no,no,
+811756161,811761633,67222684,Seneca Street South,residential,2,nan,FALSE,FALSE,28.548961123037166,,,,no,,asphalt,no,no,
+811756161,811784572,67222684,Seneca Street South,residential,2,nan,FALSE,TRUE,51.52482119019127,,,,no,,asphalt,no,no,
+811756186,6463602013,67222714,Thorburn Street South,secondary,2,nan,FALSE,FALSE,7.774131297,,,,no,,asphalt,no,no,
+811756186,811776126,67223239,Joseph Street East,residential,2,nan,FALSE,FALSE,67.22339040545947,,,,no,,asphalt,no,no,
+811756186,811752903,67223887,Joseph Street West,residential,2,nan,FALSE,TRUE,117.08882601519696,,,,no,,asphalt,no,no,
+811756186,416701631,67227122,"['Thorburn Street South', 'Haldimand Road 17']",secondary,2,nan,FALSE,TRUE,1477.3036370070026,,,,no,,asphalt,no,none,
+811756186,416701631,67225626,"['Thorburn Street South', 'Haldimand Road 17']",secondary,2,nan,FALSE,TRUE,1477.3036370070026,,,,no,,asphalt,no,none,
+811756186,416701631,66929818,"['Thorburn Street South', 'Haldimand Road 17']",secondary,2,nan,FALSE,TRUE,1477.3036370070026,,,,no,,no,no,no,
+811756661,811755781,67223718,Ottawa Street North,residential,2,nan,FALSE,FALSE,53.56958035,,,,no,,asphalt,no,no,
+811756661,6463584745,67223718,Ottawa Street North,residential,2,nan,FALSE,TRUE,15.704087053750408,,,,no,,asphalt,no,no,
+811756661,811780346,67223822,King Street,residential,2,nan,FALSE,FALSE,93.77671875,,,,no,,asphalt,no,no,
+811757177,811778739,67227265,Brant Street West,residential,2,nan,FALSE,FALSE,107.53552607817421,,,,no,,asphalt,no,no,
+811757177,811766886,67222625,Ouse Street,residential,2,nan,FALSE,FALSE,137.06911576227503,,,,no,,asphalt,no,no,
+811757177,811748224,67222625,Ouse Street,residential,2,nan,FALSE,TRUE,203.57503724113005,,,,no,,asphalt,no,no,
+811757177,811782424,67227265,Brant Street West,residential,2,nan,FALSE,TRUE,21.534001822713428,,,,no,,asphalt,no,no,
+811757792,811784572,67222684,Seneca Street South,residential,2,nan,FALSE,FALSE,105.7165046805908,,,,no,,asphalt,no,no,
+811757792,11339644323,67222684,Seneca Street South,residential,2,nan,FALSE,TRUE,54.18256682383443,,,,no,,asphalt,no,no,
+811757792,6463584702,67227265,Brant Street West,residential,2,nan,FALSE,FALSE,8.117464778,,,,no,,asphalt,no,no,
+811757792,6463584700,67227265,Brant Street West,residential,2,nan,FALSE,TRUE,5.459250786952354,,,,no,,asphalt,no,no,
+811759107,6463602043,67223957,Brant Street East,residential,2,nan,FALSE,FALSE,5.367393620965554,,,,no,,asphalt,no,no,
+811759107,6463602000,67223957,Brant Street East,residential,2,nan,FALSE,TRUE,113.57364951780052,,,,no,,asphalt,no,no,
+811759107,6463602042,67224357,"['Winniet Street South', 'Robert Dell Court']",residential,2,nan,FALSE,TRUE,63.81726775493567,,,,no,,asphalt,no,no,
+811759107,6463602042,67225926,"['Winniet Street South', 'Robert Dell Court']",residential,2,nan,FALSE,TRUE,63.81726775493567,,,,no,,asphalt,no,no,
+811759777,6463584691,67223053,Chippawa Street West,residential,2,nan,FALSE,FALSE,5.259027364399766,,,,no,,asphalt,no,no,
+811759777,811759820,67223053,Chippawa Street West,residential,2,nan,FALSE,TRUE,119.24142392808307,,,,no,,asphalt,no,no,
+811759777,6463584694,67223431,Cayuga Street South,residential,2,nan,FALSE,FALSE,96.78289389752237,,,,no,,asphalt,no,no,
+811759777,811765611,67223431,Cayuga Street South,residential,2,nan,FALSE,TRUE,72.87233277,,,,no,,asphalt,no,no,
+811759820,811748224,67222625,Ouse Street,residential,2,nan,FALSE,FALSE,105.60045611810733,,,,no,,asphalt,no,no,
+811759820,811775959,67222625,Ouse Street,residential,2,nan,FALSE,TRUE,132.23216206288328,,,,no,,asphalt,no,no,
+811759820,811759777,67223053,Chippawa Street West,residential,2,nan,FALSE,FALSE,119.24142392808307,,,,no,,asphalt,no,no,
+811760949,6463579973,67222870,Talbot Street West,primary,2,50,FALSE,FALSE,10.186250651406375,,,,no,,asphalt,no,no,
+811760949,6463579977,67222870,Talbot Street West,primary,2,50,FALSE,TRUE,12.068729339965868,,,,no,,asphalt,no,no,
+811760949,6463579976,67223431,Cayuga Street South,residential,2,nan,FALSE,TRUE,9.237184494749286,,,,no,,asphalt,no,no,
+811760949,6463579970,67224214,Cayuga Street North,residential,1,nan,TRUE,FALSE,10.967588815256642,,,,no,,asphalt,no,both,
+811761176,811777171,67223053,Chippawa Street West,residential,2,nan,FALSE,TRUE,122.45170305881956,,,,no,,asphalt,no,no,
+811761176,6463602004,67223246,Chippawa Street East,residential,2,nan,FALSE,FALSE,7.928844816,,,,no,,asphalt,no,no,
+811761176,811768469,67223482,Munsee Street South,residential,2,50,FALSE,FALSE,108.59519218720473,,,,no,,asphalt,no,no,
+811761176,7158861221,67223482,Munsee Street South,residential,2,50,FALSE,TRUE,225.24514422250815,,,,no,,asphalt,no,no,
+811761464,811775453,67222684,Seneca Street South,residential,2,nan,FALSE,FALSE,103.20709659524195,,,,no,,asphalt,no,no,
+811761464,811784371,67222684,Seneca Street South,residential,2,nan,FALSE,TRUE,99.09208783043388,,,,no,,asphalt,no,no,
+811761464,811777171,67223053,Chippawa Street West,residential,2,nan,FALSE,FALSE,118.97419203677373,,,,no,,asphalt,no,no,
+811761464,6463584691,67223053,Chippawa Street West,residential,2,nan,FALSE,TRUE,137.76979650486518,,,,no,,asphalt,no,no,
+811761633,6463579976,67223431,Cayuga Street South,residential,2,nan,FALSE,FALSE,32.70191432924269,,,,no,,asphalt,no,no,
+811761633,811749702,67223431,Cayuga Street South,residential,2,nan,FALSE,TRUE,67.60216799564458,,,,no,,asphalt,no,no,
+811761633,811756161,67222684,Seneca Street South,residential,2,nan,FALSE,TRUE,28.548961123037166,,,,no,,asphalt,no,no,
+811761718,811774748,67223431,Cayuga Street South,residential,2,nan,FALSE,TRUE,210.37864631398568,,,,no,,asphalt,no,no,
+811761718,811765611,67223431,Cayuga Street South,residential,2,nan,FALSE,FALSE,178.53163483031892,,,,no,,asphalt,no,no,
+811761718,811777463,67223787,Princess Street West,residential,2,nan,FALSE,FALSE,31.295666550041815,,,,no,,asphalt,no,no,
+811762195,811752903,67227230,"['South End Drive', 'Sunset Lane']",residential,2,nan,FALSE,FALSE,215.69817940522375,,,,no,,asphalt,no,no,
+811762195,811752903,67223127,"['South End Drive', 'Sunset Lane']",residential,2,nan,FALSE,FALSE,215.69817940522375,,,,no,,asphalt,no,no,
+811762852,6463602062,67222677,Winnett Street South,residential,2,nan,FALSE,TRUE,7.474943231604707,,,,no,,asphalt,no,no,
+811762852,6463584778,67224605,Winnett Street North,residential,2,nan,FALSE,FALSE,9.115339075882986,,,,no,,asphalt,no,no,
+811762852,7158861326,766496825,Talbot Street East,primary,2,50,FALSE,FALSE,70.86706242161644,,,,no,,asphalt,yes,no,
+811762852,7158861339,766496825,Talbot Street East,primary,2,50,FALSE,TRUE,59.281845420457934,,,,no,,asphalt,yes,no,
+811764267,6463602044,628319193,,service,,nan,FALSE,FALSE,6.118540379398647,,,,no,,no,no,no,
+811764267,6463602062,67222677,Winnett Street South,residential,2,nan,FALSE,FALSE,93.33146598,,,,no,,asphalt,no,no,
+811764267,6463601997,67226853,McKay Street East,residential,2,nan,FALSE,TRUE,113.49473533132219,,,,no,,asphalt,no,no,
+811764739,6463602044,689056880,,footway,,nan,FALSE,FALSE,5.561421142426397,,,,no,,no,no,no,sidewalk
+811765499,2991290951,67222714,Thorburn Street South,secondary,2,nan,FALSE,TRUE,9.867638121321853,,,,no,,asphalt,no,no,
+811765499,7158840220,67223622,Thorburn Street North,residential,2,nan,FALSE,FALSE,8.181721237584748,,,,no,,asphalt,no,no,
+811765499,811755655,501561429,Talbot Street East,primary,2,50,FALSE,FALSE,239.15970561166858,,,,no,,asphalt,yes,no,
+811765499,7158861326,766496825,Talbot Street East,primary,2,50,FALSE,TRUE,49.658054000810345,,,,no,,asphalt,yes,no,
+811765587,7168038632,67224878,Victoria Street,residential,2,nan,FALSE,FALSE,25.800399552354587,,,,no,,asphalt,no,no,
+811765611,811775959,67225388,John Street,residential,2,nan,FALSE,TRUE,143.8110958152137,,,,no,,asphalt,no,no,
+811765611,811759777,67223431,Cayuga Street South,residential,2,nan,FALSE,FALSE,72.87233277,,,,no,,asphalt,no,no,
+811765611,811761718,67223431,Cayuga Street South,residential,2,nan,FALSE,TRUE,178.53163483031892,,,,no,,asphalt,no,no,
+811765983,811777251,67226935,Hill Street,residential,2,nan,FALSE,TRUE,95.82387826749084,,,,no,,asphalt,no,no,
+811765995,6463602032,67222702,Commodore Road,residential,2,nan,FALSE,TRUE,7.511615828,,,,no,,asphalt,no,no,
+811765995,811776126,67223156,Abbott Lane,residential,2,nan,FALSE,FALSE,61.020844210066585,,,,no,,asphalt,no,no,
+811765995,2516245713,67223156,Abbott Lane,residential,2,nan,FALSE,TRUE,98.40263711263955,,,,no,,asphalt,no,no,
+811766415,6463579935,67223286,Mohawk Street West,residential,2,nan,FALSE,TRUE,10.586313714050009,,,,no,,asphalt,no,no,
+811766415,811753650,766496840,Cayuga Street North,residential,2,nan,FALSE,FALSE,67.80661842840422,,,,no,,asphalt,no,no,
+811766415,7158861422,766496840,Cayuga Street North,residential,2,nan,FALSE,TRUE,70.33352053502881,,,,no,,asphalt,no,no,
+811766415,811774790,67223286,Mohawk Street West,residential,2,nan,FALSE,FALSE,29.15104266480116,,,,no,,asphalt,no,no,
+811766857,6463602032,67222702,Commodore Road,residential,2,nan,FALSE,FALSE,76.75357462,,,,no,,asphalt,no,no,
+811766857,811754260,67222702,Commodore Road,residential,2,nan,FALSE,TRUE,94.65266403340537,,,,no,,asphalt,no,no,
+811766857,6463602033,67223984,Country Club Road,residential,2,nan,FALSE,FALSE,6.400476682342042,,,,no,,asphalt,no,no,
+811766886,811757177,67222625,Ouse Street,residential,2,nan,FALSE,TRUE,137.06911576227503,,,,no,,asphalt,no,no,
+811766886,6463579977,67222870,Talbot Street West,primary,2,50,FALSE,FALSE,95.43915499,,,,no,,asphalt,no,no,
+811766886,811751549,391907401,"['Talbot Street West', 'Highway 3']",primary,2,60,FALSE,TRUE,371.24926579399823,yes,,,no,,asphalt,no,none,
+811766886,811751549,67223395,"['Talbot Street West', 'Highway 3']",primary,2,60,FALSE,TRUE,371.24926579399823,yes,,,no,,asphalt,no,no,
+811766886,811751549,332885844,"['Talbot Street West', 'Highway 3']",primary,2,60,FALSE,TRUE,371.24926579399823,yes,,,no,,no,no,no,
+811766886,7158861357,67225552,Ouse Street North,residential,2,nan,FALSE,FALSE,9.942695448,,,,no,,asphalt,no,no,
+811767102,6463584693,67223305,Tuscarora Street West,residential,2,nan,FALSE,FALSE,8.813011096049992,,,,no,,asphalt,no,no,
+811767102,811748224,67223305,Tuscarora Street West,residential,2,nan,FALSE,TRUE,115.19452359209512,,,,no,,asphalt,no,no,
+811767102,6463584694,67223431,Cayuga Street South,residential,2,nan,FALSE,TRUE,3.9911349680511123,,,,no,,asphalt,no,no,
+811767102,811778739,67223431,Cayuga Street South,residential,2,nan,FALSE,FALSE,151.77193583714657,,,,no,,asphalt,no,no,
+811767501,811751988,67223822,King Street,residential,2,nan,FALSE,TRUE,20.35809487427305,,,,no,,asphalt,no,no,
+811767501,7158861372,766496829,,service,,nan,FALSE,TRUE,21.317488190612885,,parking_aisle,,no,,asphalt,no,no,
+811767501,811768306,67223822,King Street,residential,2,nan,FALSE,FALSE,18.907612489456884,,,,no,,asphalt,no,no,
+811767501,7158861367,689055747,,footway,,nan,FALSE,TRUE,24.33505347468597,,,,no,,no,no,no,sidewalk
+811768306,811767501,67223822,King Street,residential,2,nan,FALSE,TRUE,18.907612489456884,,,,no,,asphalt,no,no,
+811768306,6463579935,67225552,"['Mohawk Street West', 'Ouse Street North']",residential,2,nan,FALSE,FALSE,205.61227743036338,,,,no,,asphalt,no,no,
+811768306,6463579935,1013604443,"['Mohawk Street West', 'Ouse Street North']",residential,2,nan,FALSE,FALSE,205.61227743036338,,,,no,,asphalt,no,no,
+811768306,7158861381,67225552,Ouse Street North,residential,2,nan,FALSE,TRUE,99.89534572264368,,,,no,,asphalt,no,no,
+811768469,811771233,67223482,Munsee Street South,residential,2,50,FALSE,FALSE,98.44467289903545,,,,no,,asphalt,no,no,
+811768469,811761176,67223482,Munsee Street South,residential,2,50,FALSE,TRUE,108.59519218720473,,,,no,,asphalt,no,no,
+811768469,811781696,67223305,Tuscarora Street West,residential,2,nan,FALSE,TRUE,120.9041450284345,,,,no,,asphalt,no,no,
+811771233,811772584,67223482,Munsee Street South,residential,2,50,FALSE,FALSE,101.59407071011339,,,,no,,asphalt,no,no,
+811771233,811768469,67223482,Munsee Street South,residential,2,50,FALSE,TRUE,98.44467289903545,,,,no,,asphalt,no,no,
+811771233,6463602000,67223957,Brant Street East,residential,2,nan,FALSE,FALSE,8.882000579511734,,,,no,,asphalt,no,no,
+811771233,6463584717,67227265,Brant Street West,residential,2,nan,FALSE,TRUE,111.24453615603377,,,,no,,asphalt,no,no,
+811771310,6463579936,391907402,Norton Street West,residential,2,nan,FALSE,FALSE,84.18466302004335,,,,no,,asphalt,no,no,
+811771620,811778959,67222714,Thorburn Street South,secondary,2,nan,FALSE,FALSE,99.71462572109415,,,,no,,asphalt,no,no,
+811771620,811779502,67222714,Thorburn Street South,secondary,2,nan,FALSE,TRUE,202.1616568967254,,,,no,,asphalt,no,no,
+811771620,6463602043,67223957,Brant Street East,residential,2,nan,FALSE,TRUE,115.2032110495007,,,,no,,asphalt,no,no,
+811772004,7158861240,67223887,Joseph Street West,residential,2,nan,FALSE,FALSE,57.280705444322905,,,,no,,asphalt,no,no,
+811772004,811772809,67223887,Joseph Street West,residential,2,nan,FALSE,TRUE,120.05844052484998,,,,no,,asphalt,no,no,
+811772004,7158861233,67223482,Munsee Street South,residential,2,50,FALSE,FALSE,43.643666504319185,,,,no,,asphalt,no,no,
+811772004,6463602008,689056874,,footway,,nan,FALSE,TRUE,12.560823128724689,,,,no,,no,no,no,sidewalk
+811772564,811776910,67222694,Echo Street East,residential,2,nan,FALSE,TRUE,240.44552143093856,,,,no,,asphalt,no,no,
+811772564,811782748,67224216,Monture Street North,residential,2,nan,FALSE,FALSE,285.8510997511549,,,,no,,unpaved,no,no,
+811772564,811782748,67223455,Monture Street North,residential,2,nan,FALSE,FALSE,285.8510997511549,,,,no,,unpaved,no,no,
+811772564,811779772,67226723,Monture Street North,residential,2,nan,FALSE,TRUE,409.2225148933047,,,,no,,unpaved,no,no,
+811772564,811779772,67227207,Monture Street North,residential,2,nan,FALSE,TRUE,409.2225148933047,,,,no,,unpaved,no,no,
+811772584,7158861343,67223482,Munsee Street South,residential,2,50,FALSE,FALSE,57.04321235675033,,,,no,,asphalt,no,no,
+811772584,811771233,67223482,Munsee Street South,residential,2,50,FALSE,TRUE,101.59407071011339,,,,no,,asphalt,no,no,
+811772584,6463601997,67226853,McKay Street East,residential,2,nan,FALSE,FALSE,7.173871969575182,,,,no,,asphalt,no,no,
+811772584,6463584716,67224556,McKay Street West,residential,2,nan,FALSE,TRUE,112.76390033178103,,,,no,,asphalt,no,no,
+811772809,811772004,67223887,Joseph Street West,residential,2,nan,FALSE,FALSE,120.05844052484998,,,,no,,asphalt,no,no,
+811772809,811774748,67223887,Joseph Street West,residential,2,nan,FALSE,TRUE,42.46856039020383,,,,no,,asphalt,no,no,
+811772809,811777463,67223787,"['Princess Street West', 'Ottawa Street South']",residential,2,nan,FALSE,FALSE,313.60504605031537,,,,no,,asphalt,no,no,
+811772809,811777463,67222869,"['Princess Street West', 'Ottawa Street South']",residential,2,nan,FALSE,FALSE,313.60504605031537,,,,no,,asphalt,no,no,
+811773157,811779065,67226540,Charles Cullen Parkway,residential,2,nan,FALSE,FALSE,411.7508224,,,,no,,asphalt,no,none,
+811773325,811775022,67226315,Maple Road,residential,2,nan,FALSE,TRUE,777.5095821823448,,,,no,,asphalt,no,no,
+811774748,811761718,67223431,Cayuga Street South,residential,2,nan,FALSE,FALSE,210.37864631398568,,,,no,,asphalt,no,no,
+811774748,811772809,67223887,Joseph Street West,residential,2,nan,FALSE,FALSE,42.46856039020383,,,,no,,asphalt,no,no,
+811774748,811780528,67225090,Ottawa Street South,residential,2,nan,FALSE,TRUE,258.6401384304591,,,,no,,asphalt,no,no,
+811774790,6463584749,67223286,Mohawk Street West,residential,2,nan,FALSE,FALSE,9.110400353902998,,,,no,,asphalt,no,no,
+811774790,811753650,67223718,Ottawa Street North,residential,2,nan,FALSE,FALSE,57.28502865678129,,,,no,,asphalt,no,no,
+811774790,811755781,67223718,Ottawa Street North,residential,2,nan,FALSE,TRUE,97.37598611714263,,,,no,,asphalt,no,no,
+811774790,811766415,67223286,Mohawk Street West,residential,2,nan,FALSE,TRUE,29.15104266480116,,,,no,,asphalt,no,no,
+811775022,811773325,67226315,Maple Road,residential,2,nan,FALSE,FALSE,777.5095822,,,,no,,asphalt,no,no,
+811775022,416701237,67222778,King George Street,residential,2,nan,FALSE,FALSE,783.6863327951698,,,,no,,unpaved,no,no,
+811775022,416701237,67226716,King George Street,residential,2,nan,FALSE,FALSE,783.6863327951698,,,,no,,unpaved,no,no,
+811775022,811751549,67226632,Maple Road,residential,2,nan,FALSE,TRUE,255.2605397532159,,,,no,,asphalt,no,none,
+811775022,811751549,67226790,Maple Road,residential,2,nan,FALSE,TRUE,255.2605397532159,,,,no,,asphalt,no,no,
+811775136,811753650,67223718,Ottawa Street North,residential,2,nan,FALSE,TRUE,46.02153788575956,,,,no,,asphalt,no,no,
+811775136,3951688536,67225816,Norton Street West,residential,2,nan,FALSE,FALSE,8.234239885520854,,,,no,,asphalt,no,right,
+811775136,6463579936,391907402,Norton Street West,residential,2,nan,FALSE,TRUE,8.766257658,,,,no,,asphalt,no,no,
+811775136,6463579950,67227306,Ottawa Street North,residential,2,nan,FALSE,FALSE,80.62950056986826,,,,no,,asphalt,no,left,
+811775453,4087050625,67222684,Seneca Street South,residential,2,nan,FALSE,FALSE,19.67452236198811,,,,no,,asphalt,no,no,
+811775453,811761464,67222684,Seneca Street South,residential,2,nan,FALSE,TRUE,103.20709659524195,,,,no,,asphalt,no,no,
+811775453,6463584721,67223305,Tuscarora Street West,residential,2,nan,FALSE,FALSE,113.42029200219964,,,,no,,asphalt,no,no,
+811775453,6463584701,67223305,Tuscarora Street West,residential,2,nan,FALSE,TRUE,5.575927866596342,,,,no,,asphalt,no,no,
+811775465,811779772,388082227,Highway 3,primary,2,80,FALSE,TRUE,1727.761337026397,,,,no,,asphalt,no,no,
+811775465,811779772,67222781,Highway 3,primary,2,80,FALSE,TRUE,1727.761337026397,,,,no,,no,no,no,
+811775959,811765611,67225388,John Street,residential,2,nan,FALSE,FALSE,143.8110958152137,,,,no,,asphalt,no,no,
+811775959,811759820,67222625,Ouse Street,residential,2,nan,FALSE,FALSE,132.23216206288328,,,,no,,asphalt,no,no,
+811775959,811780734,67222625,Ouse Street,residential,2,nan,FALSE,TRUE,210.4574454443647,,,,no,,asphalt,no,no,
+811776126,811765995,67223156,Abbott Lane,residential,2,nan,FALSE,TRUE,61.020844210066585,,,,no,,asphalt,no,no,
+811776126,6463602023,244291655,Powell Lane,residential,2,nan,FALSE,TRUE,133.6738996208589,,,,no,,asphalt,no,no,
+811776126,811756186,67223239,Joseph Street East,residential,2,nan,FALSE,TRUE,67.22339040545947,,,,no,,asphalt,no,no,
+811776623,6463602042,67225926,Robert Dell Court,residential,2,nan,FALSE,FALSE,46.31327905013124,,,,no,,asphalt,no,no,
+811776910,811772564,67222694,Echo Street East,residential,2,nan,FALSE,FALSE,240.44552143093856,,,,no,,asphalt,no,no,
+811776910,811778568,67222694,Echo Street East,residential,2,nan,FALSE,TRUE,245.31055215447302,,,,no,,asphalt,no,no,
+811776910,811752200,67225082,"['Mohawk Street East', 'Johnson Street']",residential,2,nan,FALSE,TRUE,318.2115245833087,,,,no,,asphalt,no,no,
+811776910,811752200,67225693,"['Mohawk Street East', 'Johnson Street']",residential,2,nan,FALSE,TRUE,318.2115245833087,,,,no,,asphalt,no,no,
+811777026,811750529,67223459,Railton Road,residential,2,nan,FALSE,FALSE,47.544830778529544,,,,no,,asphalt,no,no,
+811777026,6463602031,67222702,Commodore Road,residential,2,nan,FALSE,FALSE,44.6267237,,,,no,,asphalt,no,no,
+811777026,6463602033,67223984,Country Club Road,residential,2,nan,FALSE,TRUE,296.83514564558544,,,,no,,asphalt,no,no,
+811777171,811761176,67223053,Chippawa Street West,residential,2,nan,FALSE,FALSE,122.45170305881956,,,,no,,asphalt,no,no,
+811777171,811761464,67223053,Chippawa Street West,residential,2,nan,FALSE,TRUE,118.97419203677373,,,,no,,asphalt,no,no,
+811777171,811781696,67223061,Ottawa Street South,residential,2,nan,FALSE,FALSE,106.99261039087884,,,,no,,asphalt,no,no,
+811777171,811784371,67225000,"['Ottawa Street South', 'Barton Street']",residential,2,nan,FALSE,TRUE,210.20616203142265,,,,no,,asphalt,no,no,
+811777171,811784371,67223061,"['Ottawa Street South', 'Barton Street']",residential,2,nan,FALSE,TRUE,210.20616203142265,,,,no,,asphalt,no,no,
+811777251,811765983,67226935,Hill Street,residential,2,nan,FALSE,FALSE,95.82387826749084,,,,no,,asphalt,no,no,
+811777251,5931658524,628319192,,residential,,nan,FALSE,FALSE,85.24702817783673,,,,no,,no,no,no,
+811777251,811747669,67224605,Winnett Street North,residential,2,nan,FALSE,TRUE,300.53202328600923,,,,no,,asphalt,no,no,
+811777463,811784371,67222684,Seneca Street South,residential,2,nan,FALSE,FALSE,104.14390849710972,,,,no,,asphalt,no,no,
+811777463,811772809,67223787,"['Princess Street West', 'Ottawa Street South']",residential,2,nan,FALSE,FALSE,313.60504605031537,,,,no,,asphalt,no,no,
+811777463,811772809,67222869,"['Princess Street West', 'Ottawa Street South']",residential,2,nan,FALSE,FALSE,313.60504605031537,,,,no,,asphalt,no,no,
+811777463,811761718,67223787,Princess Street West,residential,2,nan,FALSE,TRUE,31.295666550041815,,,,no,,asphalt,no,no,
+811778192,811754035,67224605,Winnett Street North,residential,2,nan,FALSE,TRUE,99.71411543548103,,,,no,,asphalt,no,no,
+811778192,811747669,67224605,Winnett Street North,residential,2,nan,FALSE,FALSE,101.59585728515275,,,,no,,asphalt,no,no,
+811778192,416698555,67227293,Norton Street East,residential,2,nan,FALSE,TRUE,122.54262626985997,,,,no,,asphalt,no,no,
+811778239,6463579934,1013604445,,footway,,nan,FALSE,TRUE,7.387124617727603,,,,no,,no,no,no,sidewalk
+811778283,9525603768,67222870,Talbot Street West,primary,2,50,FALSE,TRUE,70.36419696,,,,no,,asphalt,no,no,
+811778283,6463584712,67223061,Ottawa Street South,residential,2,nan,FALSE,TRUE,8.055756449642836,,,,no,,asphalt,no,no,
+811778283,2991282940,67223718,Ottawa Street North,residential,2,nan,FALSE,FALSE,8.854219499280617,,,,no,,asphalt,no,no,
+811778283,7158861345,766496824,Talbot Street West,primary,3,50,FALSE,FALSE,88.57272430920325,,,,no,,asphalt,no,no,
+811778283,7158861345,67222870,Talbot Street West,primary,3,50,FALSE,FALSE,88.57272430920325,,,,no,,asphalt,no,no,
+811778543,811752200,67223545,Martin Street,residential,2,nan,FALSE,TRUE,119.10744281104732,,,,no,,asphalt,no,no,
+811778568,811747669,67222694,Echo Street East,residential,2,nan,FALSE,TRUE,239.00448384014157,,,,no,,asphalt,no,no,
+811778568,811782318,67224237,Fishcarrier Street North,residential,2,nan,FALSE,FALSE,92.11037065037252,,,,no,,asphalt,no,no,
+811778568,811776910,67222694,Echo Street East,residential,2,nan,FALSE,FALSE,245.31055215447302,,,,no,,asphalt,no,no,
+811778739,811749702,67223431,Cayuga Street South,residential,2,nan,FALSE,FALSE,75.51632012979164,,,,no,,asphalt,no,no,
+811778739,6463584692,67227265,Brant Street West,residential,2,nan,FALSE,FALSE,7.551433858491517,,,,no,,asphalt,no,no,
+811778739,811757177,67227265,Brant Street West,residential,2,nan,FALSE,TRUE,107.53552607817421,,,,no,,asphalt,no,no,
+811778739,811767102,67223431,Cayuga Street South,residential,2,nan,FALSE,TRUE,151.77193583714657,,,,no,,asphalt,no,no,
+811778959,811771620,67222714,Thorburn Street South,secondary,2,nan,FALSE,TRUE,99.71462572109415,,,,no,,asphalt,no,no,
+811778959,811783621,67225045,McKay Street East,residential,2,nan,FALSE,FALSE,113.68566988196244,,,,no,,asphalt,no,no,
+811778959,6463602060,628319193,,service,,nan,FALSE,TRUE,11.094093245315408,,,,no,,no,no,no,
+811778959,2991290951,67222714,Thorburn Street South,secondary,2,nan,FALSE,FALSE,93.33610506613333,,,,no,,asphalt,no,no,
+811779065,416701980,67222720,River Road,residential,2,nan,FALSE,TRUE,1024.575175760286,,,,no,,asphalt,no,none,
+811779065,7270847024,67222947,River Road,residential,2,nan,FALSE,FALSE,484.7004190007941,,,,no,,asphalt,no,none,
+811779065,811773157,67226540,Charles Cullen Parkway,residential,2,nan,FALSE,TRUE,411.7508224,,,,no,,asphalt,no,none,
+811779502,811771620,67222714,Thorburn Street South,secondary,2,nan,FALSE,FALSE,202.1616568967254,,,,no,,asphalt,no,no,
+811779502,7158861394,67222714,Thorburn Street South,secondary,2,nan,FALSE,TRUE,88.15825120491218,,,,no,,asphalt,no,no,
+811779502,6463602004,67223246,Chippawa Street East,residential,2,nan,FALSE,TRUE,232.18938647019797,,,,no,,asphalt,no,no,
+811779772,7158861398,67222822,Talbot Street East,primary,2,50,FALSE,TRUE,301.7649929256433,,,,no,,asphalt,no,no,
+811779772,811772564,67226723,Monture Street North,residential,2,nan,FALSE,FALSE,409.2225148933047,,,,no,,unpaved,no,no,
+811779772,811772564,67227207,Monture Street North,residential,2,nan,FALSE,FALSE,409.2225148933047,,,,no,,unpaved,no,no,
+811779772,7158840219,244292001,"['Monture Street South', 'Princess Street East']","['track', 'residential']",2,nan,FALSE,TRUE,1189.0833836918061,,,,no,,unpaved,no,no,
+811779772,7158840219,244292002,"['Monture Street South', 'Princess Street East']","['track', 'residential']",2,nan,FALSE,TRUE,1189.0833836918061,,,,no,,unpaved,no,no,
+811779772,7158840219,67223564,"['Monture Street South', 'Princess Street East']","['track', 'residential']",2,nan,FALSE,TRUE,1189.0833836918061,,,,no,,unpaved,no,no,
+811779772,811775465,388082227,Highway 3,primary,2,80,FALSE,FALSE,1727.761337026397,,,,no,,asphalt,no,no,
+811779772,811775465,67222781,Highway 3,primary,2,80,FALSE,FALSE,1727.761337026397,,,,no,,no,no,no,
+811780346,6463579914,67223822,King Street,residential,2,nan,FALSE,FALSE,8.551871570147243,,,,no,,asphalt,no,no,
+811780346,811756661,67223822,King Street,residential,2,nan,FALSE,TRUE,93.77671875,,,,no,,asphalt,no,no,
+811780346,7158861423,766496840,Cayuga Street North,residential,2,nan,FALSE,FALSE,43.24356833683196,,,,no,,asphalt,no,no,
+811780528,811774748,67225090,Ottawa Street South,residential,2,nan,FALSE,FALSE,258.6401384304591,,,,no,,asphalt,no,no,
+811780734,811775959,67222625,Ouse Street,residential,2,nan,FALSE,FALSE,210.45744544436468,,,,no,,asphalt,no,no,
+811781696,811753097,67223061,Ottawa Street South,residential,2,nan,FALSE,FALSE,96.22041385051169,,,,no,,asphalt,no,no,
+811781696,811777171,67223061,Ottawa Street South,residential,2,nan,FALSE,TRUE,106.99261039087884,,,,no,,asphalt,no,no,
+811781696,6463584721,67223305,Tuscarora Street West,residential,2,nan,FALSE,TRUE,6.898368748391012,,,,no,,asphalt,no,no,
+811781696,811768469,67223305,Tuscarora Street West,residential,2,nan,FALSE,FALSE,120.9041450284345,,,,no,,asphalt,no,no,
+811782318,811748222,67222824,Obadiah Street,residential,2,nan,FALSE,TRUE,59.308266995317716,,,,no,,asphalt,no,no,
+811782318,811747885,67224237,Fishcarrier Street North,residential,2,nan,FALSE,FALSE,145.59378479508285,,,,no,,asphalt,no,no,
+811782318,811778568,67224237,Fishcarrier Street North,residential,2,nan,FALSE,TRUE,92.11037065037252,,,,no,,asphalt,no,no,
+811782424,811757177,67227265,Brant Street West,residential,2,nan,FALSE,FALSE,21.534001822713428,,,,no,,asphalt,no,no,
+811782748,811772564,67224216,Monture Street North,residential,2,nan,FALSE,TRUE,285.85109975115495,,,,no,,unpaved,no,no,
+811782748,811772564,67223455,Monture Street North,residential,2,nan,FALSE,TRUE,285.85109975115495,,,,no,,unpaved,no,no,
+811783621,811778959,67225045,McKay Street East,residential,2,nan,FALSE,TRUE,113.68566988196244,,,,no,,asphalt,no,no,
+811783975,416696374,67226042,Latham Street,residential,2,nan,FALSE,FALSE,124.46176449195235,,,,no,,asphalt,no,no,
+811784371,811761464,67222684,Seneca Street South,residential,2,nan,FALSE,FALSE,99.09208783043388,,,,no,,asphalt,no,no,
+811784371,811777463,67222684,Seneca Street South,residential,2,nan,FALSE,TRUE,104.14390849710972,,,,no,,asphalt,no,no,
+811784371,811777171,67225000,"['Ottawa Street South', 'Barton Street']",residential,2,nan,FALSE,FALSE,210.20616203142265,,,,no,,asphalt,no,no,
+811784371,811777171,67223061,"['Ottawa Street South', 'Barton Street']",residential,2,nan,FALSE,FALSE,210.20616203142265,,,,no,,asphalt,no,no,
+811784445,3912827458,67223482,Munsee Street South,residential,2,50,FALSE,TRUE,10.339067718690941,,,,no,,asphalt,no,no,
+811784445,3912827460,244291656,Talbot Street East,primary,3,50,FALSE,FALSE,9.369762835828139,,,,no,,asphalt,yes,no,
+811784445,3912827461,766496823,Munsee Street North,secondary,3,50,FALSE,FALSE,7.755266475749206,,,,no,,asphalt,yes,right,
+811784445,3912827459,766496824,Talbot Street West,primary,3,50,FALSE,TRUE,10.127448711986741,,,,no,,asphalt,no,no,
+811784572,811757792,67222684,Seneca Street South,residential,2,nan,FALSE,TRUE,105.7165046805908,,,,no,,asphalt,no,no,
+811784572,6463584707,67224556,McKay Street West,residential,2,nan,FALSE,FALSE,6.818580169366905,,,,no,,asphalt,no,no,
+811784572,811756161,67222684,Seneca Street South,residential,2,nan,FALSE,FALSE,51.52482119019127,,,,no,,asphalt,no,no,
+811784572,811749702,67224556,McKay Street West,residential,2,nan,FALSE,TRUE,55.98894779742528,,,,no,,asphalt,no,no,
+2516245713,811765995,67223156,Abbott Lane,residential,2,nan,FALSE,FALSE,98.40263711263955,,,,no,,asphalt,no,no,
+2516245714,2516245715,244291654,Pike Creek Drive,residential,2,nan,FALSE,FALSE,76.52014110877896,,,,no,,asphalt,no,no,
+2516245715,2516245717,244291654,Pike Creek Drive,residential,2,nan,FALSE,FALSE,62.180906624663116,,,,no,,asphalt,no,no,
+2516245715,2516245714,244291654,Pike Creek Drive,residential,2,nan,FALSE,TRUE,76.52014110877896,,,,no,,asphalt,no,no,
+2516245715,811754260,67225535,Essex Road,residential,2,nan,FALSE,TRUE,103.60487866322546,,,,no,,asphalt,no,no,
+2516245716,811754844,67222714,Thorburn Street South,secondary,2,nan,FALSE,FALSE,62.64045158,,,,no,,asphalt,no,no,
+2516245716,6463602013,67222714,Thorburn Street South,secondary,2,nan,FALSE,TRUE,131.84769069723535,,,,no,,asphalt,no,no,
+2516245716,6463602019,244291653,Hudson Drive,residential,2,nan,FALSE,TRUE,8.425527866446076,,,,no,,asphalt,no,no,
+2516245717,2516245718,244291654,Pike Creek Drive,residential,2,nan,FALSE,FALSE,54.02076732776665,,,,no,,asphalt,no,no,
+2516245717,2516245715,244291654,Pike Creek Drive,residential,2,nan,FALSE,TRUE,62.180906624663116,,,,no,,asphalt,no,no,
+2516245717,2516245719,244291653,Hudson Drive,residential,2,nan,FALSE,FALSE,328.3424888949543,,,,no,,asphalt,no,no,
+2516245718,2516245717,244291654,Pike Creek Drive,residential,2,nan,FALSE,TRUE,54.02076732776665,,,,no,,asphalt,no,no,
+2516245719,6463602019,244291653,Hudson Drive,residential,2,nan,FALSE,FALSE,58.168869158363485,,,,no,,asphalt,no,no,
+2516245719,6463602023,244291655,Powell Lane,residential,2,nan,FALSE,FALSE,7.3662750789672655,,,,no,,asphalt,no,no,
+2516245719,2516245717,244291653,Hudson Drive,residential,2,nan,FALSE,TRUE,328.34248889495433,,,,no,,asphalt,no,no,
+2991282940,811778283,67223718,Ottawa Street North,residential,2,nan,FALSE,TRUE,8.854219499280617,,,,no,,asphalt,no,no,
+2991282940,6463584743,689055774,,footway,,nan,FALSE,FALSE,6.933894891241715,,,,marked,lines,no,no,no,crossing
+2991282940,6463584745,67223718,Ottawa Street North,residential,2,nan,FALSE,FALSE,25.14651581279473,,,,no,,asphalt,no,no,
+2991282940,6463584746,689055773,,footway,,nan,FALSE,TRUE,8.878810173018552,,,,no,,no,no,no,sidewalk
+2991282940,6463584746,689055774,,footway,,nan,FALSE,TRUE,8.878810173018552,,,,marked,lines,no,no,no,crossing
+2991290951,811765499,67222714,Thorburn Street South,secondary,2,nan,FALSE,FALSE,9.867638121321853,,,,no,,asphalt,no,no,
+2991290951,6463602063,689056886,,footway,,nan,FALSE,TRUE,11.648901664135035,,,,marked,lines,no,no,no,crossing
+2991290951,811778959,67222714,Thorburn Street South,secondary,2,nan,FALSE,TRUE,93.33610506613333,,,,no,,asphalt,no,no,
+2991290951,6463602065,689056886,,footway,,nan,FALSE,FALSE,94.21880070334191,,,,marked,lines,no,no,no,crossing
+2991290951,6463602065,689056887,,footway,,nan,FALSE,FALSE,94.21880070334191,,,,no,,no,no,no,sidewalk
+3912827458,811784445,67223482,Munsee Street South,residential,2,50,FALSE,FALSE,10.339067718690941,,,,no,,asphalt,no,no,
+3912827458,7158861342,67223482,Munsee Street South,residential,2,50,FALSE,TRUE,16.434449124764754,,,,no,,asphalt,no,no,
+3912827458,6463584732,689055770,,footway,,nan,FALSE,FALSE,7.578842265858305,,,,marked,lines,no,no,no,crossing
+3912827458,6463584731,689055770,,footway,,nan,FALSE,TRUE,10.018552480350058,,,,marked,lines,no,no,no,crossing
+3912827459,6463584730,689055769,,footway,,nan,FALSE,FALSE,9.576892827507631,,,,marked,lines,no,no,no,crossing
+3912827459,6463584729,689055769,,footway,,nan,FALSE,TRUE,7.736217477055594,,,,marked,lines,no,no,no,crossing
+3912827459,811784445,766496824,Talbot Street West,primary,3,50,FALSE,FALSE,10.127448711986741,,,,no,,asphalt,no,no,
+3912827459,7158861352,766496824,Talbot Street West,primary,3,50,FALSE,TRUE,10.001246791096266,,,,no,,asphalt,no,no,
+3912827460,811784445,244291656,Talbot Street East,primary,3,50,FALSE,TRUE,9.369762835828139,,,,no,,asphalt,yes,no,
+3912827460,6463584735,689055771,,footway,,nan,FALSE,FALSE,8.127542039305272,,,,marked,lines,no,no,no,crossing
+3912827460,6463584733,689055771,,footway,,nan,FALSE,TRUE,9.60896229,,,,marked,lines,no,no,no,crossing
+3912827460,7158861339,244291656,Talbot Street East,primary,3,50,FALSE,FALSE,51.994957336471785,,,,no,,asphalt,yes,no,
+3912827460,7158861339,766496825,Talbot Street East,primary,3,50,FALSE,FALSE,51.994957336471785,,,,no,,asphalt,yes,no,
+3912827461,6463584735,689055772,,footway,,nan,FALSE,FALSE,9.493549390350825,,,,marked,lines,no,no,no,crossing
+3912827461,6463584729,689055772,,footway,,nan,FALSE,TRUE,9.600658339838022,,,,marked,lines,no,no,no,crossing
+3912827461,7158861348,766496823,Munsee Street North,secondary,3,50,FALSE,FALSE,31.760146080553785,,,,no,,asphalt,yes,right,
+3912827461,811784445,766496823,Munsee Street North,secondary,3,50,FALSE,TRUE,7.755266475749206,,,,no,,asphalt,yes,right,
+3912831202,416697040,1013604447,Indian Street East,residential,2,nan,FALSE,TRUE,8.091323516236338,,,,no,,asphalt,no,no,
+3912831202,811750159,67223970,Indian Street East,residential,2,nan,FALSE,FALSE,359.95475016654507,,,,no,,asphalt,no,no,
+3912831202,7168038591,767730702,,footway,,nan,FALSE,TRUE,514.7466525194135,,,,no,,asphalt,no,no,sidewalk
+3951688536,811775136,67225816,Norton Street West,residential,2,nan,FALSE,TRUE,8.234239885520854,,,,no,,asphalt,no,right,
+3951688536,6463584751,689055778,,footway,,nan,FALSE,TRUE,7.976494334151755,,,,no,,no,no,no,sidewalk
+3951688536,416698555,67225816,Norton Street West,residential,2,nan,FALSE,FALSE,112.55185311293693,,,,no,,asphalt,no,right,
+4087046832,7158861399,406657489,,service,,nan,FALSE,TRUE,29.902575300060104,,parking_aisle,,no,,no,no,no,
+4087046836,4087046843,406657485,,service,,nan,FALSE,FALSE,44.97102903795314,,parking_aisle,,no,,asphalt,no,no,
+4087046836,4087046837,406657485,,service,,nan,FALSE,TRUE,15.278823982319974,,parking_aisle,,no,,asphalt,no,no,
+4087046836,4087046847,406657492,,service,,nan,TRUE,FALSE,93.18192433,,parking_aisle,,no,,asphalt,no,no,
+4087046837,4087046836,406657485,,service,,nan,FALSE,FALSE,15.278823982319974,,parking_aisle,,no,,asphalt,no,no,
+4087046842,4087046843,406657487,,service,,nan,FALSE,FALSE,34.74032289016038,,parking_aisle,,no,,asphalt,no,no,
+4087046842,7158861403,406657487,,service,,nan,FALSE,TRUE,7.434661950511945,,parking_aisle,,no,,asphalt,no,no,
+4087046842,7158861399,406657489,,service,,nan,FALSE,FALSE,30.412183539852798,,parking_aisle,,no,,no,no,no,
+4087046843,4087046836,406657485,,service,,nan,FALSE,TRUE,44.97102903795314,,parking_aisle,,no,,asphalt,no,no,
+4087046843,4087046842,406657487,,service,,nan,FALSE,TRUE,34.74032289016038,,parking_aisle,,no,,asphalt,no,no,
+4087046843,4087046847,406657488,,service,,nan,FALSE,TRUE,19.248359079581256,,parking_aisle,,no,,asphalt,no,no,
+4087046847,4087046843,406657488,,service,,nan,FALSE,FALSE,19.248359079581256,,parking_aisle,,no,,asphalt,no,no,
+4087046855,811755192,67223587,Echo Street West,residential,2,nan,FALSE,TRUE,36.94129671807506,,,,no,,asphalt,no,no,
+4087046855,4087046856,406657484,,service,,nan,FALSE,FALSE,14.88687784448488,,parking_aisle,,no,,asphalt,no,no,
+4087046855,416695612,67223587,Echo Street West,residential,2,nan,FALSE,FALSE,83.17813314500263,,,,no,,asphalt,no,no,
+4087046856,4087046855,406657484,,service,,nan,FALSE,TRUE,14.88687784448488,,parking_aisle,,no,,asphalt,no,no,
+4087046856,4087046856,406657490,,service,,nan,TRUE,FALSE,145.87399857786798,,parking_aisle,,no,,asphalt,no,no,
+4087046859,811755192,406657486,,service,,nan,FALSE,FALSE,31.12364735004035,,parking_aisle,,no,,asphalt,no,no,
+4087046866,4087046875,67222638,Munsee Street North,secondary,2,50,FALSE,FALSE,32.546093658972126,,,,no,,asphalt,yes,right,
+4087046866,416695612,67222638,Munsee Street North,secondary,2,50,FALSE,TRUE,34.66142595747733,,,,no,,asphalt,yes,right,
+4087046875,416699005,67222638,Munsee Street North,secondary,2,50,FALSE,FALSE,153.07406585260574,,,,no,,asphalt,yes,right,
+4087046875,4087046866,67222638,Munsee Street North,secondary,2,50,FALSE,TRUE,32.546093658972126,,,,no,,asphalt,yes,right,
+4087046875,4087046866,406657483,,service,,nan,TRUE,FALSE,84.47841939,,,,no,,asphalt,no,no,
+4087050625,11339644323,67222684,Seneca Street South,residential,2,nan,FALSE,FALSE,22.36337898904468,,,,no,,asphalt,no,no,
+4087050625,811775453,67222684,Seneca Street South,residential,2,nan,FALSE,TRUE,19.67452236198811,,,,no,,asphalt,no,no,
+4087050625,4087050628,406657776,,service,,nan,FALSE,TRUE,35.787262975257896,,parking_aisle,,no,,asphalt,no,no,
+4087050628,4087050625,406657776,,service,,nan,FALSE,FALSE,35.787262975257896,,parking_aisle,,no,,asphalt,no,no,
+5931658524,811777251,628319192,,residential,,nan,FALSE,TRUE,85.24702817783673,,,,no,,no,no,no,
+6463579910,6463579970,689055751,,footway,,nan,FALSE,FALSE,10.523027116593713,,,,marked,lines,no,no,no,crossing
+6463579910,6463579977,689055754,,footway,,nan,FALSE,TRUE,11.961606161208122,,,,marked,lines,no,no,no,crossing
+6463579910,6463579914,689055740,,footway,,nan,FALSE,FALSE,88.12893949185685,,,,no,,no,no,no,sidewalk
+6463579910,6463579914,689055741,,footway,,nan,FALSE,FALSE,88.12893949185685,,,,marked,lines,no,no,no,crossing
+6463579910,7158861357,689055738,,footway,,nan,FALSE,TRUE,96.28815292768317,,,,no,,no,no,no,sidewalk
+6463579910,7158861357,689055740,,footway,,nan,FALSE,TRUE,96.28815292768317,,,,no,,no,no,no,sidewalk
+6463579914,811780346,67223822,King Street,residential,2,nan,FALSE,TRUE,8.551871570147243,,,,no,,asphalt,no,no,
+6463579914,7158861376,67223822,King Street,residential,2,nan,FALSE,FALSE,31.650604436041135,,,,no,,asphalt,no,no,
+6463579914,6463579953,1013604444,,footway,,nan,FALSE,FALSE,9.936481393694878,,,,no,,no,no,no,sidewalk
+6463579914,6463579953,689055741,,footway,,nan,FALSE,FALSE,9.936481393694878,,,,marked,lines,no,no,no,crossing
+6463579914,6463579910,689055740,,footway,,nan,FALSE,TRUE,88.12893949185685,,,,no,,no,no,no,sidewalk
+6463579914,6463579910,689055741,,footway,,nan,FALSE,TRUE,88.12893949185685,,,,marked,lines,no,no,no,crossing
+6463579934,811778239,1013604445,,footway,,nan,FALSE,FALSE,7.387124617727603,,,,no,,no,no,no,sidewalk
+6463579934,6463579937,689055742,,footway,,nan,FALSE,TRUE,177.97185125210018,,,,no,,no,no,no,sidewalk
+6463579934,6463579940,689055743,,footway,,nan,FALSE,FALSE,35.91962451592772,,,,no,,no,no,no,sidewalk
+6463579935,811766415,67223286,Mohawk Street West,residential,2,nan,FALSE,FALSE,10.586313714050009,,,,no,,asphalt,no,no,
+6463579935,6463579936,689055742,,footway,,nan,FALSE,FALSE,112.46852957555596,,,,no,,no,no,no,sidewalk
+6463579935,811768306,67225552,"['Mohawk Street West', 'Ouse Street North']",residential,2,nan,FALSE,TRUE,205.6122774303634,,,,no,,asphalt,no,no,
+6463579935,811768306,1013604443,"['Mohawk Street West', 'Ouse Street North']",residential,2,nan,FALSE,TRUE,205.6122774303634,,,,no,,asphalt,no,no,
+6463579935,6463579953,1013604444,,footway,,nan,FALSE,TRUE,112.39320553500582,,,,no,,no,no,no,sidewalk
+6463579936,811775136,391907402,Norton Street West,residential,2,nan,FALSE,FALSE,8.766257658,,,,no,,asphalt,no,no,
+6463579936,811771310,391907402,Norton Street West,residential,2,nan,FALSE,TRUE,84.18466302004335,,,,no,,asphalt,no,no,
+6463579936,6463579952,689055742,,footway,,nan,FALSE,FALSE,80.76756172665586,,,,no,,no,no,no,sidewalk
+6463579936,6463579935,689055742,,footway,,nan,FALSE,TRUE,112.46852957555596,,,,no,,no,no,no,sidewalk
+6463579937,811755192,67223587,Echo Street West,residential,2,nan,FALSE,FALSE,9.713693430950059,,,,no,,asphalt,no,no,
+6463579937,811753766,67223587,Echo Street West,residential,2,nan,FALSE,TRUE,62.59218520474314,,,,no,,asphalt,no,no,
+6463579937,6463579934,689055742,,footway,,nan,FALSE,FALSE,177.9718512521002,,,,no,,no,no,no,sidewalk
+6463579937,6463579952,689055742,,footway,,nan,FALSE,TRUE,22.898602620676225,,,,no,,no,no,no,sidewalk
+6463579940,416699005,689055743,,footway,,nan,FALSE,FALSE,70.90222720601437,,,,no,,no,no,no,sidewalk
+6463579940,6463579934,689055743,,footway,,nan,FALSE,TRUE,35.91962451592772,,,,no,,no,no,no,sidewalk
+6463579940,6463579944,689055744,,footway,,nan,FALSE,FALSE,25.544847727882228,,,,no,,no,no,no,sidewalk
+6463579944,6463579945,689055744,,footway,,nan,FALSE,FALSE,14.806781580897486,,,,no,,no,no,no,sidewalk
+6463579944,6463579940,689055744,,footway,,nan,FALSE,TRUE,25.544847727882228,,,,no,,no,no,no,sidewalk
+6463579944,7168038498,689055745,,footway,,nan,FALSE,FALSE,17.22826438053264,,,,no,,no,no,no,sidewalk
+6463579945,6463579944,689055744,,footway,,nan,FALSE,TRUE,14.806781580897486,,,,no,,no,no,no,sidewalk
+6463579950,6463579952,689055746,,footway,,nan,FALSE,FALSE,7.565450714343451,,,,no,,no,no,no,sidewalk
+6463579950,811755192,67227306,Ottawa Street North,residential,2,nan,FALSE,FALSE,23.288468340535786,,,,no,,asphalt,no,left,
+6463579950,811775136,67227306,Ottawa Street North,residential,2,nan,FALSE,TRUE,80.62950056986826,,,,no,,asphalt,no,left,
+6463579951,6463579952,689055746,,footway,,nan,FALSE,TRUE,4.391202849244377,,,,no,,no,no,no,sidewalk
+6463579952,6463579951,689055746,,footway,,nan,FALSE,FALSE,4.391202849244377,,,,no,,no,no,no,sidewalk
+6463579952,6463579950,689055746,,footway,,nan,FALSE,TRUE,7.565450714343451,,,,no,,no,no,no,sidewalk
+6463579952,6463579937,689055742,,footway,,nan,FALSE,FALSE,22.898602620676225,,,,no,,no,no,no,sidewalk
+6463579952,6463579936,689055742,,footway,,nan,FALSE,TRUE,80.76756172665586,,,,no,,no,no,no,sidewalk
+6463579953,7158861367,689055747,,footway,,nan,FALSE,FALSE,52.376126736614054,,,,no,,no,no,no,sidewalk
+6463579953,6463579935,1013604444,,footway,,nan,FALSE,FALSE,112.39320553500582,,,,no,,no,no,no,sidewalk
+6463579953,6463579914,1013604444,,footway,,nan,FALSE,TRUE,9.936481393694878,,,,no,,no,no,no,sidewalk
+6463579953,6463579914,689055741,,footway,,nan,FALSE,TRUE,9.936481393694878,,,,marked,lines,no,no,no,crossing
+6463579966,7158861423,689055749,,footway,,nan,FALSE,FALSE,23.81817365706945,,,,no,,no,no,no,sidewalk
+6463579966,7158861422,689055749,,footway,,nan,FALSE,TRUE,21.77240626779945,,,,no,,no,no,no,sidewalk
+6463579966,811755781,689055750,,footway,,nan,FALSE,FALSE,49.538481602078576,,,,no,,no,no,no,sidewalk
+6463579969,6463579970,689055751,,footway,,nan,FALSE,TRUE,11.577713141349289,,,,marked,lines,no,no,no,crossing
+6463579969,6463579971,689055775,,footway,,nan,FALSE,TRUE,1.2545551645441424,,,,no,,no,no,no,sidewalk
+6463579969,7158861313,689055775,,footway,,nan,FALSE,FALSE,24.460312330782997,,,,no,,no,no,no,sidewalk
+6463579970,6463579969,689055751,,footway,,nan,FALSE,FALSE,11.577713141349289,,,,marked,lines,no,no,no,crossing
+6463579970,6463579910,689055751,,footway,,nan,FALSE,TRUE,10.523027116593713,,,,marked,lines,no,no,no,crossing
+6463579970,7158861314,67224214,Cayuga Street North,residential,1,nan,TRUE,FALSE,26.178649992276743,,,,no,,asphalt,no,both,
+6463579971,6463579973,689055752,,footway,,nan,FALSE,FALSE,11.147159387464873,,,,marked,lines,no,no,no,crossing
+6463579971,6463579969,689055775,,footway,,nan,FALSE,FALSE,1.2545551645441424,,,,no,,no,no,no,sidewalk
+6463579971,6463584743,689055774,,footway,,nan,FALSE,TRUE,103.02492098857881,,,,marked,lines,no,no,no,crossing
+6463579971,6463584743,689055775,,footway,,nan,FALSE,TRUE,103.02492098857881,,,,no,,no,no,no,sidewalk
+6463579973,9525603768,67222870,Talbot Street West,primary,2,50,FALSE,FALSE,46.396357681682986,,,,no,,asphalt,no,no,
+6463579973,811760949,67222870,Talbot Street West,primary,2,50,FALSE,TRUE,10.186250651406375,,,,no,,asphalt,no,no,
+6463579973,6463579974,689055752,,footway,,nan,FALSE,FALSE,9.560047079057798,,,,marked,lines,no,no,no,crossing
+6463579973,6463579971,689055752,,footway,,nan,FALSE,TRUE,11.147159387464873,,,,marked,lines,no,no,no,crossing
+6463579974,6463579973,689055752,,footway,,nan,FALSE,TRUE,9.560047079057798,,,,marked,lines,no,no,no,crossing
+6463579974,6463579976,689055753,,footway,,nan,FALSE,FALSE,9.501855786672813,,,,marked,lines,no,no,no,crossing
+6463579974,9525603774,689055760,,footway,,nan,FALSE,TRUE,45.17859523487898,,,,no,,no,no,no,sidewalk
+6463579974,9525603769,689055761,,footway,,nan,FALSE,FALSE,51.39977216630582,,,,no,,no,no,no,sidewalk
+6463579975,6463579976,689055753,,footway,,nan,FALSE,TRUE,12.10104143294389,,,,marked,lines,no,no,no,crossing
+6463579975,6463579977,689055754,,footway,,nan,FALSE,FALSE,9.014117012519835,,,,marked,lines,no,no,no,crossing
+6463579975,6463579984,689055756,,footway,,nan,FALSE,FALSE,144.65089339331738,,,,no,,no,no,no,sidewalk
+6463579976,811760949,67223431,Cayuga Street South,residential,2,nan,FALSE,FALSE,9.237184494749286,,,,no,,asphalt,no,no,
+6463579976,811761633,67223431,Cayuga Street South,residential,2,nan,FALSE,TRUE,32.70191432924269,,,,no,,asphalt,no,no,
+6463579976,6463579975,689055753,,footway,,nan,FALSE,FALSE,12.10104143294389,,,,marked,lines,no,no,no,crossing
+6463579976,6463579974,689055753,,footway,,nan,FALSE,TRUE,9.501855786672813,,,,marked,lines,no,no,no,crossing
+6463579977,811760949,67222870,Talbot Street West,primary,2,50,FALSE,FALSE,12.068729339965868,,,,no,,asphalt,no,no,
+6463579977,6463579910,689055754,,footway,,nan,FALSE,FALSE,11.961606161208122,,,,marked,lines,no,no,no,crossing
+6463579977,6463579975,689055754,,footway,,nan,FALSE,TRUE,9.014117012519835,,,,marked,lines,no,no,no,crossing
+6463579977,811766886,67222870,Talbot Street West,primary,2,50,FALSE,TRUE,95.43915499,,,,no,,asphalt,no,no,
+6463579984,6463579975,689055756,,footway,,nan,FALSE,TRUE,144.65089339331738,,,,no,,no,no,no,sidewalk
+6463584685,6463584692,689055757,,footway,,nan,FALSE,FALSE,71.23531318133502,,,,no,,no,no,no,sidewalk
+6463584691,811759777,67223053,Chippawa Street West,residential,2,nan,FALSE,TRUE,5.259027364399766,,,,no,,asphalt,no,no,
+6463584691,811761464,67223053,Chippawa Street West,residential,2,nan,FALSE,FALSE,137.76979650486518,,,,no,,asphalt,no,no,
+6463584691,6463584695,689055757,,footway,,nan,FALSE,TRUE,95.46749182882978,,,,no,,no,no,no,sidewalk
+6463584692,811778739,67227265,Brant Street West,residential,2,nan,FALSE,TRUE,7.551433858491517,,,,no,,asphalt,no,no,
+6463584692,6463584685,689055757,,footway,,nan,FALSE,TRUE,71.23531318133502,,,,no,,no,no,no,sidewalk
+6463584692,6463584700,67227265,Brant Street West,residential,2,nan,FALSE,FALSE,82.16090287475073,,,,no,,asphalt,no,no,
+6463584692,6463584693,689055757,,footway,,nan,FALSE,FALSE,148.23699428785676,,,,no,,no,no,no,sidewalk
+6463584693,6463584701,67223305,Tuscarora Street West,residential,2,nan,FALSE,FALSE,132.79846542669426,,,,no,,asphalt,no,no,
+6463584693,811767102,67223305,Tuscarora Street West,residential,2,nan,FALSE,TRUE,8.813011096049992,,,,no,,asphalt,no,no,
+6463584693,6463584695,689055757,,footway,,nan,FALSE,FALSE,5.2909429380985085,,,,no,,no,no,no,sidewalk
+6463584693,6463584692,689055757,,footway,,nan,FALSE,TRUE,148.23699428785673,,,,no,,no,no,no,sidewalk
+6463584694,811767102,67223431,Cayuga Street South,residential,2,nan,FALSE,FALSE,3.9911349680511123,,,,no,,asphalt,no,no,
+6463584694,6463584695,689055758,,footway,,nan,FALSE,FALSE,8.413618904244895,,,,no,,no,no,no,sidewalk
+6463584694,811759777,67223431,Cayuga Street South,residential,2,nan,FALSE,TRUE,96.78289389752237,,,,no,,asphalt,no,no,
+6463584695,6463584693,689055757,,footway,,nan,FALSE,TRUE,5.2909429380985085,,,,no,,no,no,no,sidewalk
+6463584695,6463584694,689055758,,footway,,nan,FALSE,TRUE,8.413618904244895,,,,no,,no,no,no,sidewalk
+6463584695,6463584691,689055757,,footway,,nan,FALSE,FALSE,95.46749182882978,,,,no,,no,no,no,sidewalk
+6463584695,6463584697,689055758,,footway,,nan,FALSE,FALSE,133.34239665512868,,,,no,,no,no,no,sidewalk
+6463584697,6463584701,689055759,,footway,,nan,FALSE,FALSE,7.372657262,,,,no,,no,no,no,sidewalk
+6463584697,6463584698,689055759,,footway,,nan,FALSE,TRUE,87.58173272562375,,,,no,,no,no,no,sidewalk
+6463584697,6463584695,689055758,,footway,,nan,FALSE,TRUE,133.34239665512868,,,,no,,no,no,no,sidewalk
+6463584698,6463584697,689055759,,footway,,nan,FALSE,FALSE,87.58173272562375,,,,no,,no,no,no,sidewalk
+6463584700,811757792,67227265,Brant Street West,residential,2,nan,FALSE,FALSE,5.459250786952354,,,,no,,asphalt,no,no,
+6463584700,6463584692,67227265,Brant Street West,residential,2,nan,FALSE,TRUE,82.16090287475073,,,,no,,asphalt,no,no,
+6463584700,6463584701,689055759,,footway,,nan,FALSE,TRUE,98.34218137506289,,,,no,,no,no,no,sidewalk
+6463584701,811775453,67223305,Tuscarora Street West,residential,2,nan,FALSE,FALSE,5.575927866596342,,,,no,,asphalt,no,no,
+6463584701,6463584693,67223305,Tuscarora Street West,residential,2,nan,FALSE,TRUE,132.79846542669426,,,,no,,asphalt,no,no,
+6463584701,6463584697,689055759,,footway,,nan,FALSE,TRUE,7.372657262,,,,no,,no,no,no,sidewalk
+6463584701,6463584700,689055759,,footway,,nan,FALSE,FALSE,98.34218137506289,,,,no,,no,no,no,sidewalk
+6463584702,6463584722,67227265,Brant Street West,residential,2,nan,FALSE,FALSE,104.68995434357917,,,,no,,asphalt,no,no,
+6463584702,811757792,67227265,Brant Street West,residential,2,nan,FALSE,TRUE,8.117464778,,,,no,,asphalt,no,no,
+6463584702,6463584707,689055760,,footway,,nan,FALSE,FALSE,105.63601648215891,,,,no,,no,no,no,sidewalk
+6463584702,6463584723,689055767,,footway,,nan,FALSE,TRUE,109.34139934103652,,,,no,,no,no,no,sidewalk
+6463584707,811784572,67224556,McKay Street West,residential,2,nan,FALSE,TRUE,6.818580169366905,,,,no,,asphalt,no,no,
+6463584707,811754697,67224556,McKay Street West,residential,2,nan,FALSE,FALSE,113.15607885260242,,,,no,,asphalt,no,no,
+6463584707,9525603774,689055760,,footway,,nan,FALSE,FALSE,55.229442399700886,,,,no,,no,no,no,sidewalk
+6463584707,6463584702,689055760,,footway,,nan,FALSE,TRUE,105.63601648215891,,,,no,,no,no,no,sidewalk
+6463584711,6463584712,689055762,,footway,,nan,FALSE,TRUE,9.048014623,,,,marked,lines,no,no,no,crossing
+6463584711,7158861336,689055768,,footway,,nan,FALSE,FALSE,79.70338452679161,,,,no,,no,no,no,sidewalk
+6463584711,6463584716,689055763,,footway,,nan,FALSE,FALSE,90.53008753074008,,,,no,,no,no,no,sidewalk
+6463584711,6463584716,689055764,,footway,,nan,FALSE,FALSE,90.53008753074008,,,,marked,lines,no,no,no,crossing
+6463584712,811778283,67223061,Ottawa Street South,residential,2,nan,FALSE,FALSE,8.055756449642836,,,,no,,asphalt,no,no,
+6463584712,6463584711,689055762,,footway,,nan,FALSE,FALSE,9.048014623,,,,marked,lines,no,no,no,crossing
+6463584712,811754697,67223061,Ottawa Street South,residential,2,nan,FALSE,TRUE,90.08393080379996,,,,no,,asphalt,no,no,
+6463584712,9525603769,689055761,,footway,,nan,FALSE,TRUE,70.10695299025575,,,,no,,no,no,no,sidewalk
+6463584712,9525603769,689055762,,footway,,nan,FALSE,TRUE,70.10695299025575,,,,marked,lines,no,no,no,crossing
+6463584716,811754697,67224556,McKay Street West,residential,2,nan,FALSE,TRUE,7.80639627,,,,no,,asphalt,no,no,
+6463584716,811772584,67224556,McKay Street West,residential,2,nan,FALSE,FALSE,112.76390033178103,,,,no,,asphalt,no,no,
+6463584716,6463584717,689055764,,footway,,nan,FALSE,FALSE,104.51181878368544,,,,marked,lines,no,no,no,crossing
+6463584716,6463584717,689055765,,footway,,nan,FALSE,FALSE,104.51181878368544,,,,no,,no,no,no,sidewalk
+6463584716,6463584711,689055763,,footway,,nan,FALSE,TRUE,90.53008753074008,,,,no,,no,no,no,sidewalk
+6463584716,6463584711,689055764,,footway,,nan,FALSE,TRUE,90.53008753074008,,,,marked,lines,no,no,no,crossing
+6463584717,811753097,67227265,Brant Street West,residential,2,nan,FALSE,TRUE,9.424228112326423,,,,no,,asphalt,no,no,
+6463584717,811771233,67227265,Brant Street West,residential,2,nan,FALSE,FALSE,111.24453615603377,,,,no,,asphalt,no,no,
+6463584717,6463584716,689055764,,footway,,nan,FALSE,TRUE,104.51181878368544,,,,marked,lines,no,no,no,crossing
+6463584717,6463584716,689055765,,footway,,nan,FALSE,TRUE,104.51181878368544,,,,no,,no,no,no,sidewalk
+6463584718,6463584722,689055766,,footway,,nan,FALSE,FALSE,32.76039698121747,,,,no,,no,no,no,sidewalk
+6463584721,811781696,67223305,Tuscarora Street West,residential,2,nan,FALSE,FALSE,6.898368748391012,,,,no,,asphalt,no,no,
+6463584721,811775453,67223305,Tuscarora Street West,residential,2,nan,FALSE,TRUE,113.42029200219964,,,,no,,asphalt,no,no,
+6463584721,6463584723,689055766,,footway,,nan,FALSE,TRUE,89.46556956949573,,,,no,,no,no,no,sidewalk
+6463584722,811753097,67227265,Brant Street West,residential,2,nan,FALSE,FALSE,7.509817213059621,,,,no,,asphalt,no,no,
+6463584722,6463584702,67227265,Brant Street West,residential,2,nan,FALSE,TRUE,104.68995434357917,,,,no,,asphalt,no,no,
+6463584722,6463584718,689055766,,footway,,nan,FALSE,TRUE,32.76039698121747,,,,no,,no,no,no,sidewalk
+6463584722,6463584723,689055766,,footway,,nan,FALSE,FALSE,6.745234798056334,,,,no,,no,no,no,sidewalk
+6463584723,6463584721,689055766,,footway,,nan,FALSE,FALSE,89.46556956949573,,,,no,,no,no,no,sidewalk
+6463584723,6463584722,689055766,,footway,,nan,FALSE,TRUE,6.745234798056334,,,,no,,no,no,no,sidewalk
+6463584723,6463584702,689055767,,footway,,nan,FALSE,FALSE,109.34139934103649,,,,no,,no,no,no,sidewalk
+6463584728,6463584731,689055768,,footway,,nan,FALSE,TRUE,1.92938833,,,,no,,no,no,no,sidewalk
+6463584729,3912827459,689055769,,footway,,nan,FALSE,FALSE,7.736217477055594,,,,marked,lines,no,no,no,crossing
+6463584729,3912827461,689055772,,footway,,nan,FALSE,FALSE,9.600658339838022,,,,marked,lines,no,no,no,crossing
+6463584729,11339644325,689055773,,footway,,nan,FALSE,FALSE,11.13855968068431,,,,no,,no,no,no,sidewalk
+6463584730,6463584731,689055768,,footway,,nan,FALSE,FALSE,0.7730930908140893,,,,no,,no,no,no,sidewalk
+6463584730,3912827459,689055769,,footway,,nan,FALSE,TRUE,9.576892827507631,,,,marked,lines,no,no,no,crossing
+6463584730,7158861336,689055768,,footway,,nan,FALSE,TRUE,22.091528486981808,,,,no,,no,no,no,sidewalk
+6463584731,6463584730,689055768,,footway,,nan,FALSE,TRUE,0.7730930908140893,,,,no,,no,no,no,sidewalk
+6463584731,3912827458,689055770,,footway,,nan,FALSE,FALSE,10.018552480350058,,,,marked,lines,no,no,no,crossing
+6463584731,6463584728,689055768,,footway,,nan,FALSE,FALSE,1.92938833,,,,no,,no,no,no,sidewalk
+6463584732,3912827458,689055770,,footway,,nan,FALSE,TRUE,7.578842265858305,,,,marked,lines,no,no,no,crossing
+6463584732,6463584733,689056868,,footway,,nan,FALSE,TRUE,1.887365359446509,,,,no,,no,no,no,sidewalk
+6463584732,7158861337,689056868,,footway,,nan,FALSE,FALSE,16.83951084123736,,,,no,,no,no,no,sidewalk
+6463584733,3912827460,689055771,,footway,,nan,FALSE,FALSE,9.60896229,,,,marked,lines,no,no,no,crossing
+6463584733,6463584732,689056868,,footway,,nan,FALSE,FALSE,1.887365359446509,,,,no,,no,no,no,sidewalk
+6463584733,7158861338,689056885,,footway,,nan,FALSE,TRUE,52.21819123759459,,,,no,,no,no,no,sidewalk
+6463584734,6463584735,689055771,,footway,,nan,FALSE,TRUE,2.302141711,,,,marked,lines,no,no,no,crossing
+6463584734,6463584778,689055785,,footway,,nan,FALSE,FALSE,112.15730934940565,,,,no,,no,no,no,sidewalk
+6463584734,6463584778,689055786,,footway,,nan,FALSE,FALSE,112.15730934940565,,,,marked,lines,no,no,no,crossing
+6463584734,6463584766,689055784,,footway,,nan,FALSE,TRUE,93.24257215163946,,,,marked,lines,no,no,no,crossing
+6463584734,6463584766,689055785,,footway,,nan,FALSE,TRUE,93.24257215163946,,,,no,,no,no,no,sidewalk
+6463584735,6463584734,689055771,,footway,,nan,FALSE,FALSE,2.302141711,,,,marked,lines,no,no,no,crossing
+6463584735,3912827460,689055771,,footway,,nan,FALSE,TRUE,8.127542039305272,,,,marked,lines,no,no,no,crossing
+6463584735,3912827461,689055772,,footway,,nan,FALSE,TRUE,9.493549390350825,,,,marked,lines,no,no,no,crossing
+6463584743,2991282940,689055774,,footway,,nan,FALSE,TRUE,6.933894891241715,,,,marked,lines,no,no,no,crossing
+6463584743,6463584744,689055776,,footway,,nan,FALSE,FALSE,27.318116273947233,,,,no,,no,no,no,sidewalk
+6463584743,6463579971,689055774,,footway,,nan,FALSE,FALSE,103.02492098857881,,,,marked,lines,no,no,no,crossing
+6463584743,6463579971,689055775,,footway,,nan,FALSE,FALSE,103.02492098857881,,,,no,,no,no,no,sidewalk
+6463584744,6463584743,689055776,,footway,,nan,FALSE,TRUE,27.318116273947233,,,,no,,no,no,no,sidewalk
+6463584744,6463584745,689055777,,footway,,nan,FALSE,FALSE,8.280302126156933,,,,no,,no,no,no,sidewalk
+6463584744,7158861313,689055776,,footway,,nan,FALSE,FALSE,129.16292880565584,,,,no,,no,no,no,sidewalk
+6463584744,7158861313,689055775,,footway,,nan,FALSE,FALSE,129.16292880565584,,,,no,,no,no,no,sidewalk
+6463584745,811756661,67223718,Ottawa Street North,residential,2,nan,FALSE,FALSE,15.704087053750408,,,,no,,asphalt,no,no,
+6463584745,6463584744,689055777,,footway,,nan,FALSE,TRUE,8.280302126156933,,,,no,,no,no,no,sidewalk
+6463584745,2991282940,67223718,Ottawa Street North,residential,2,nan,FALSE,TRUE,25.14651581279473,,,,no,,asphalt,no,no,
+6463584746,11339644325,689055773,,footway,,nan,FALSE,TRUE,92.35326639,,,,no,,no,no,no,sidewalk
+6463584746,6463584761,689055778,,footway,,nan,FALSE,FALSE,87.32269273900523,,,,no,,no,no,no,sidewalk
+6463584746,2991282940,689055773,,footway,,nan,FALSE,FALSE,8.878810173018552,,,,no,,no,no,no,sidewalk
+6463584746,2991282940,689055774,,footway,,nan,FALSE,FALSE,8.878810173018552,,,,marked,lines,no,no,no,crossing
+6463584749,811774790,67223286,Mohawk Street West,residential,2,nan,FALSE,TRUE,9.110400353902998,,,,no,,asphalt,no,no,
+6463584749,6463584755,689055778,,footway,,nan,FALSE,TRUE,5.366594612200805,,,,no,,no,no,no,sidewalk
+6463584749,416702244,67223286,Mohawk Street West,residential,2,nan,FALSE,FALSE,113.72683399922788,,,,no,,asphalt,no,no,
+6463584749,6463584753,689055778,,footway,,nan,FALSE,FALSE,10.470177695096117,,,,no,,no,no,no,sidewalk
+6463584750,811755781,67225880,Kerr Street West,residential,2,nan,FALSE,TRUE,11.221352734148217,,,,no,,asphalt,no,no,
+6463584750,6463584758,689055778,,footway,,nan,FALSE,FALSE,8.392831152,,,,no,,no,no,no,sidewalk
+6463584750,6463584761,689055778,,footway,,nan,FALSE,TRUE,6.614372735360078,,,,no,,no,no,no,sidewalk
+6463584750,416694987,67225880,Kerr Street West,residential,2,nan,FALSE,FALSE,111.90802481019826,,,,no,,asphalt,no,no,
+6463584751,3951688536,689055778,,footway,,nan,FALSE,FALSE,7.976494334151755,,,,no,,no,no,no,sidewalk
+6463584751,6463584753,689055778,,footway,,nan,FALSE,TRUE,84.60808449719248,,,,no,,no,no,no,sidewalk
+6463584751,6463584752,689055779,,footway,,nan,FALSE,FALSE,102.35986800303228,,,,no,,no,no,no,sidewalk
+6463584752,6463584751,689055779,,footway,,nan,FALSE,TRUE,102.35986800303228,,,,no,,no,no,no,sidewalk
+6463584753,6463584751,689055778,,footway,,nan,FALSE,FALSE,84.60808449719248,,,,no,,no,no,no,sidewalk
+6463584753,6463584754,689055780,,footway,,nan,FALSE,FALSE,113.71267005416645,,,,no,,no,no,no,sidewalk
+6463584753,6463584749,689055778,,footway,,nan,FALSE,TRUE,10.470177695096117,,,,no,,no,no,no,sidewalk
+6463584754,416698555,67222638,Munsee Street North,secondary,2,50,FALSE,FALSE,91.06050490234277,,,,no,,asphalt,yes,right,
+6463584754,416702244,67222638,Munsee Street North,secondary,2,50,FALSE,TRUE,8.986353738651104,,,,no,,asphalt,yes,right,
+6463584754,6463584753,689055780,,footway,,nan,FALSE,TRUE,113.71267005416645,,,,no,,no,no,no,sidewalk
+6463584755,6463584749,689055778,,footway,,nan,FALSE,FALSE,5.366594612200805,,,,no,,no,no,no,sidewalk
+6463584755,6463584758,689055778,,footway,,nan,FALSE,TRUE,83.73478352520154,,,,no,,no,no,no,sidewalk
+6463584755,6463584757,689055781,,footway,,nan,FALSE,FALSE,113.53703206694993,,,,no,,no,no,no,sidewalk
+6463584757,416702244,67222638,Munsee Street North,secondary,2,50,FALSE,FALSE,9.292623505152172,,,,no,,asphalt,yes,right,
+6463584757,6463584760,67222638,Munsee Street North,secondary,2,50,FALSE,TRUE,83.97554985962428,,,,no,,asphalt,yes,right,
+6463584757,6463584755,689055781,,footway,,nan,FALSE,TRUE,113.53703206694993,,,,no,,no,no,no,sidewalk
+6463584758,6463584750,689055778,,footway,,nan,FALSE,TRUE,8.392831152,,,,no,,no,no,no,sidewalk
+6463584758,6463584755,689055778,,footway,,nan,FALSE,FALSE,83.73478352520154,,,,no,,no,no,no,sidewalk
+6463584758,6463584760,689055782,,footway,,nan,FALSE,FALSE,111.87947811155448,,,,no,,no,no,no,sidewalk
+6463584760,6463584757,67222638,Munsee Street North,secondary,2,50,FALSE,FALSE,83.97554985962428,,,,no,,asphalt,yes,right,
+6463584760,416694987,67222638,Munsee Street North,secondary,2,50,FALSE,TRUE,6.114354516914986,,,,no,,asphalt,yes,right,
+6463584760,6463584758,689055782,,footway,,nan,FALSE,TRUE,111.87947811155448,,,,no,,no,no,no,sidewalk
+6463584761,6463584750,689055778,,footway,,nan,FALSE,FALSE,6.614372735360078,,,,no,,no,no,no,sidewalk
+6463584761,6463584746,689055778,,footway,,nan,FALSE,TRUE,87.32269273900523,,,,no,,no,no,no,sidewalk
+6463584761,6463584763,689055783,,footway,,nan,FALSE,FALSE,112.00655705159718,,,,no,,no,no,no,sidewalk
+6463584763,416694987,67222638,Munsee Street North,secondary,2,50,FALSE,FALSE,9.588805044425742,,,,no,,asphalt,yes,right,
+6463584763,7158861348,67222638,Munsee Street North,secondary,2,50,FALSE,TRUE,52.82657764080116,,,,no,,asphalt,yes,right,
+6463584763,6463584761,689055783,,footway,,nan,FALSE,TRUE,112.00655705159718,,,,no,,no,no,no,sidewalk
+6463584764,6463584766,689055784,,footway,,nan,FALSE,FALSE,5.162805194160005,,,,marked,lines,no,no,no,crossing
+6463584766,416694987,67226665,Kerr Street East,residential,2,nan,FALSE,FALSE,9.446808657612381,,,,no,,asphalt,no,no,
+6463584766,6463584764,689055784,,footway,,nan,FALSE,TRUE,5.162805194160005,,,,marked,lines,no,no,no,crossing
+6463584766,811755817,67226665,Kerr Street East,residential,2,nan,FALSE,TRUE,112.05771272917409,,,,no,,asphalt,no,no,
+6463584766,6463584734,689055784,,footway,,nan,FALSE,FALSE,93.24257215163946,,,,marked,lines,no,no,no,crossing
+6463584766,6463584734,689055785,,footway,,nan,FALSE,FALSE,93.24257215163946,,,,no,,no,no,no,sidewalk
+6463584777,6463584778,689055786,,footway,,nan,FALSE,TRUE,10.13315885051912,,,,marked,lines,no,no,no,crossing
+6463584777,7158861325,689055787,,footway,,nan,FALSE,FALSE,60.58256767518097,,,,no,,no,no,no,sidewalk
+6463584777,7158840218,689056888,,footway,,nan,FALSE,FALSE,35.69858487461542,,,,no,,no,no,no,sidewalk
+6463584778,811762852,67224605,Winnett Street North,residential,2,nan,FALSE,TRUE,9.115339075882986,,,,no,,asphalt,no,no,
+6463584778,6463584777,689055786,,footway,,nan,FALSE,FALSE,10.13315885051912,,,,marked,lines,no,no,no,crossing
+6463584778,7158861335,67224605,Winnett Street North,residential,2,nan,FALSE,FALSE,32.94901234348017,,,,no,,asphalt,no,no,
+6463584778,6463584734,689055785,,footway,,nan,FALSE,TRUE,112.15730934940566,,,,no,,no,no,no,sidewalk
+6463584778,6463584734,689055786,,footway,,nan,FALSE,TRUE,112.15730934940566,,,,marked,lines,no,no,no,crossing
+6463601997,811772584,67226853,McKay Street East,residential,2,nan,FALSE,TRUE,7.173871969575182,,,,no,,asphalt,no,no,
+6463601997,811764267,67226853,McKay Street East,residential,2,nan,FALSE,FALSE,113.49473533132219,,,,no,,asphalt,no,no,
+6463601997,6463602000,689056869,,footway,,nan,FALSE,FALSE,101.68712625388021,,,,marked,lines,no,no,no,crossing
+6463601997,6463602000,689056870,,footway,,nan,FALSE,FALSE,101.68712625388021,,,,no,,no,no,no,sidewalk
+6463601997,6463602000,689056871,,footway,,nan,FALSE,FALSE,101.68712625388021,,,,marked,lines,no,no,no,crossing
+6463601997,7158861337,689056868,,footway,,nan,FALSE,TRUE,74.26936953893822,,,,no,,no,no,no,sidewalk
+6463601997,7158861337,689056869,,footway,,nan,FALSE,TRUE,74.26936953893822,,,,marked,lines,no,no,no,crossing
+6463602000,811771233,67223957,Brant Street East,residential,2,nan,FALSE,TRUE,8.882000579511734,,,,no,,asphalt,no,no,
+6463602000,811759107,67223957,Brant Street East,residential,2,nan,FALSE,FALSE,113.57364951780052,,,,no,,asphalt,no,no,
+6463602000,6463602004,689056872,,footway,,nan,FALSE,FALSE,207.00196764416353,,,,no,,no,no,no,sidewalk
+6463602000,6463602004,689056873,,footway,,nan,FALSE,FALSE,207.00196764416353,,,,no,,no,no,no,
+6463602000,6463602004,689056871,,footway,,nan,FALSE,FALSE,207.00196764416353,,,,marked,lines,no,no,no,crossing
+6463602000,6463601997,689056869,,footway,,nan,FALSE,TRUE,101.68712625388021,,,,marked,lines,no,no,no,crossing
+6463602000,6463601997,689056870,,footway,,nan,FALSE,TRUE,101.68712625388021,,,,no,,no,no,no,sidewalk
+6463602000,6463601997,689056871,,footway,,nan,FALSE,TRUE,101.68712625388021,,,,marked,lines,no,no,no,crossing
+6463602004,811761176,67223246,Chippawa Street East,residential,2,nan,FALSE,TRUE,7.928844816,,,,no,,asphalt,no,no,
+6463602004,811779502,67223246,Chippawa Street East,residential,2,nan,FALSE,FALSE,232.18938647019797,,,,no,,asphalt,no,no,
+6463602004,7158861222,689056873,,footway,,nan,FALSE,FALSE,225.7985674857822,,,,no,,no,no,no,
+6463602004,7158861222,689056874,,footway,,nan,FALSE,FALSE,225.7985674857822,,,,no,,no,no,no,sidewalk
+6463602004,6463602000,689056872,,footway,,nan,FALSE,TRUE,207.00196764416356,,,,no,,no,no,no,sidewalk
+6463602004,6463602000,689056873,,footway,,nan,FALSE,TRUE,207.00196764416356,,,,no,,no,no,no,
+6463602004,6463602000,689056871,,footway,,nan,FALSE,TRUE,207.00196764416356,,,,marked,lines,no,no,no,crossing
+6463602008,7158861234,689056874,,footway,,nan,FALSE,TRUE,34.975742199858274,,,,no,,no,no,no,sidewalk
+6463602008,11339644330,689056875,,footway,,nan,FALSE,FALSE,47.46116771819247,,,,no,,no,no,no,sidewalk
+6463602008,811772004,689056874,,footway,,nan,FALSE,FALSE,12.560823128724689,,,,no,,no,no,no,sidewalk
+6463602013,2516245716,67222714,Thorburn Street South,secondary,2,nan,FALSE,FALSE,131.84769069723535,,,,no,,asphalt,no,no,
+6463602013,811756186,67222714,Thorburn Street South,secondary,2,nan,FALSE,TRUE,7.774131297,,,,no,,asphalt,no,no,
+6463602013,6463602020,689056876,,footway,,nan,FALSE,FALSE,133.47277660529664,,,,marked,lines,no,no,no,crossing
+6463602013,6463602020,689056877,,footway,,nan,FALSE,FALSE,133.47277660529664,,,,no,,no,no,no,sidewalk
+6463602013,11339644330,689056875,,footway,,nan,FALSE,TRUE,184.55212424023173,,,,no,,no,no,no,sidewalk
+6463602013,11339644330,689056876,,footway,,nan,FALSE,TRUE,184.55212424023173,,,,marked,lines,no,no,no,crossing
+6463602019,2516245716,244291653,Hudson Drive,residential,2,nan,FALSE,FALSE,8.425527866446076,,,,no,,asphalt,no,no,
+6463602019,2516245719,244291653,Hudson Drive,residential,2,nan,FALSE,TRUE,58.168869158363485,,,,no,,asphalt,no,no,
+6463602019,7158840219,689056877,,footway,,nan,FALSE,FALSE,62.66621452540278,,,,no,,no,no,no,sidewalk
+6463602019,6463602020,689056877,,footway,,nan,FALSE,TRUE,7.369232962159027,,,,no,,no,no,no,sidewalk
+6463602020,6463602023,689056878,,footway,,nan,FALSE,FALSE,58.195619727702706,,,,no,,no,no,no,sidewalk
+6463602020,6463602019,689056877,,footway,,nan,FALSE,FALSE,7.369232962159027,,,,no,,no,no,no,sidewalk
+6463602020,6463602013,689056876,,footway,,nan,FALSE,TRUE,133.47277660529664,,,,marked,lines,no,no,no,crossing
+6463602020,6463602013,689056877,,footway,,nan,FALSE,TRUE,133.47277660529664,,,,no,,no,no,no,sidewalk
+6463602022,6463602024,689056878,,footway,,nan,FALSE,TRUE,35.65639150115848,,,,no,,no,no,no,sidewalk
+6463602023,811776126,244291655,Powell Lane,residential,2,nan,FALSE,FALSE,133.6738996208589,,,,no,,asphalt,no,no,
+6463602023,2516245719,244291655,Powell Lane,residential,2,nan,FALSE,TRUE,7.3662750789672655,,,,no,,asphalt,no,no,
+6463602023,6463602024,689056878,,footway,,nan,FALSE,FALSE,6.988232208467305,,,,no,,no,no,no,sidewalk
+6463602023,6463602020,689056878,,footway,,nan,FALSE,TRUE,58.195619727702706,,,,no,,no,no,no,sidewalk
+6463602024,6463602023,689056878,,footway,,nan,FALSE,TRUE,6.988232208467305,,,,no,,no,no,no,sidewalk
+6463602024,6463602022,689056878,,footway,,nan,FALSE,FALSE,35.65639150115848,,,,no,,no,no,no,sidewalk
+6463602024,6463602032,689056879,,footway,,nan,FALSE,FALSE,195.32361609555036,,,,no,,no,no,no,sidewalk
+6463602031,811754260,67222702,Commodore Road,residential,2,nan,FALSE,FALSE,64.43908642975634,,,,no,,asphalt,no,no,
+6463602031,811777026,67222702,Commodore Road,residential,2,nan,FALSE,TRUE,44.6267237,,,,no,,asphalt,no,no,
+6463602031,6463602033,689056879,,footway,,nan,FALSE,TRUE,156.6710032822064,,,,no,,no,no,no,sidewalk
+6463602032,811765995,67222702,Commodore Road,residential,2,nan,FALSE,FALSE,7.511615828,,,,no,,asphalt,no,no,
+6463602032,811766857,67222702,Commodore Road,residential,2,nan,FALSE,TRUE,76.75357462,,,,no,,asphalt,no,no,
+6463602032,6463602033,689056879,,footway,,nan,FALSE,FALSE,84.03877224924015,,,,no,,no,no,no,sidewalk
+6463602032,6463602024,689056879,,footway,,nan,FALSE,TRUE,195.32361609555034,,,,no,,no,no,no,sidewalk
+6463602033,811766857,67223984,Country Club Road,residential,2,nan,FALSE,TRUE,6.400476682342042,,,,no,,asphalt,no,no,
+6463602033,811777026,67223984,Country Club Road,residential,2,nan,FALSE,FALSE,296.83514564558544,,,,no,,asphalt,no,no,
+6463602033,6463602031,689056879,,footway,,nan,FALSE,FALSE,156.6710032822064,,,,no,,no,no,no,sidewalk
+6463602033,6463602032,689056879,,footway,,nan,FALSE,TRUE,84.03877224924015,,,,no,,no,no,no,sidewalk
+6463602042,811759107,67224357,"['Winniet Street South', 'Robert Dell Court']",residential,2,nan,FALSE,FALSE,63.81726775493568,,,,no,,asphalt,no,no,
+6463602042,811759107,67225926,"['Winniet Street South', 'Robert Dell Court']",residential,2,nan,FALSE,FALSE,63.81726775493568,,,,no,,asphalt,no,no,
+6463602042,811776623,67225926,Robert Dell Court,residential,2,nan,FALSE,TRUE,46.31327905013124,,,,no,,asphalt,no,no,
+6463602042,6463602043,689056880,,footway,,nan,FALSE,TRUE,60.31597917352212,,,,no,,no,no,no,sidewalk
+6463602042,6463602054,689056881,,footway,,nan,FALSE,FALSE,93.66216396614892,,,,no,,no,no,no,sidewalk
+6463602043,811771620,67223957,Brant Street East,residential,2,nan,FALSE,FALSE,115.2032110495007,,,,no,,asphalt,no,no,
+6463602043,811759107,67223957,Brant Street East,residential,2,nan,FALSE,TRUE,5.367393620965554,,,,no,,asphalt,no,no,
+6463602043,6463602042,689056880,,footway,,nan,FALSE,FALSE,60.31597917352212,,,,no,,no,no,no,sidewalk
+6463602043,6463602044,689056880,,footway,,nan,FALSE,TRUE,101.93598488053802,,,,no,,no,no,no,sidewalk
+6463602044,7158861255,628319193,,service,,nan,FALSE,FALSE,41.80036660971724,,,,no,,no,no,no,
+6463602044,811764267,628319193,,service,,nan,FALSE,TRUE,6.118540379398647,,,,no,,no,no,no,
+6463602044,811764739,689056880,,footway,,nan,FALSE,TRUE,5.561421142426397,,,,no,,no,no,no,sidewalk
+6463602044,6463602043,689056880,,footway,,nan,FALSE,FALSE,101.9359849,,,,no,,no,no,no,sidewalk
+6463602054,6463602042,689056881,,footway,,nan,FALSE,TRUE,93.66216396614892,,,,no,,no,no,no,sidewalk
+6463602055,6463602060,689056883,,footway,,nan,FALSE,FALSE,23.032077447697613,,,,no,,no,no,no,sidewalk
+6463602060,811778959,628319193,,service,,nan,FALSE,FALSE,11.094093245315408,,,,no,,no,no,no,
+6463602060,11339644307,689056883,,footway,,nan,FALSE,FALSE,86.89041826211708,,,,no,,no,no,no,sidewalk
+6463602060,6463602055,689056883,,footway,,nan,FALSE,TRUE,23.032077447697613,,,,no,,no,no,no,sidewalk
+6463602060,7158861258,628319193,,service,,nan,FALSE,TRUE,41.28614395,,,,no,,no,no,no,
+6463602062,811762852,67222677,Winnett Street South,residential,2,nan,FALSE,FALSE,7.474943231604707,,,,no,,asphalt,no,no,
+6463602062,811764267,67222677,Winnett Street South,residential,2,nan,FALSE,TRUE,93.33146598,,,,no,,asphalt,no,no,
+6463602062,7158861338,689056884,,footway,,nan,FALSE,FALSE,59.08522662415397,,,,marked,lines,no,no,no,crossing
+6463602062,7158861338,689056885,,footway,,nan,FALSE,FALSE,59.08522662415397,,,,no,,no,no,no,sidewalk
+6463602062,11339644326,689056883,,footway,,nan,FALSE,TRUE,70.68820524,,,,no,,no,no,no,sidewalk
+6463602062,11339644326,689056884,,footway,,nan,FALSE,TRUE,70.68820524,,,,marked,lines,no,no,no,crossing
+6463602063,2991290951,689056886,,footway,,nan,FALSE,FALSE,11.648901664135035,,,,marked,lines,no,no,no,crossing
+6463602063,11339644311,689056883,,footway,,nan,FALSE,FALSE,27.37669865326143,,,,no,,no,no,no,sidewalk
+6463602063,11339644307,689056883,,footway,,nan,FALSE,TRUE,7.8686451037332175,,,,no,,no,no,no,sidewalk
+6463602065,2991290951,689056886,,footway,,nan,FALSE,TRUE,94.21880070334191,,,,marked,lines,no,no,no,crossing
+6463602065,2991290951,689056887,,footway,,nan,FALSE,TRUE,94.21880070334191,,,,no,,no,no,no,sidewalk
+7158840218,7158861324,766496820,,service,,nan,FALSE,FALSE,13.430717055635455,,parking_aisle,,no,,asphalt,no,no,
+7158840218,7158861335,766496820,,service,,nan,FALSE,TRUE,4.175897139245556,,parking_aisle,,no,,asphalt,no,no,
+7158840218,7158840221,689056888,,footway,,nan,FALSE,FALSE,61.214458664874456,,,,no,,no,no,no,sidewalk
+7158840218,6463584777,689056888,,footway,,nan,FALSE,TRUE,35.69858487461542,,,,no,,no,no,no,sidewalk
+7158840219,811754844,67223564,Princess Street East,residential,2,nan,FALSE,TRUE,7.702973001460058,,,,no,,unpaved,no,no,
+7158840219,811779772,244292001,"['Monture Street South', 'Princess Street East']","['track', 'residential']",2,nan,FALSE,FALSE,1189.0833836918061,,,,no,,unpaved,no,no,
+7158840219,811779772,244292002,"['Monture Street South', 'Princess Street East']","['track', 'residential']",2,nan,FALSE,FALSE,1189.0833836918061,,,,no,,unpaved,no,no,
+7158840219,811779772,67223564,"['Monture Street South', 'Princess Street East']","['track', 'residential']",2,nan,FALSE,FALSE,1189.0833836918061,,,,no,,unpaved,no,no,
+7158840219,6463602019,689056877,,footway,,nan,FALSE,TRUE,62.66621452540278,,,,no,,no,no,no,sidewalk
+7158840220,811765499,67223622,Thorburn Street North,residential,2,nan,FALSE,TRUE,8.181721237584748,,,,no,,asphalt,no,no,
+7158840220,7158861315,67223622,Thorburn Street North,residential,2,nan,FALSE,FALSE,25.723736816528014,,,,no,,asphalt,no,no,
+7158840220,7158861325,689055787,,footway,,nan,FALSE,TRUE,49.6849934,,,,no,,no,no,no,sidewalk
+7158840221,811755817,67226665,Kerr Street East,residential,2,nan,FALSE,FALSE,4.991161479786151,,,,no,,asphalt,no,no,
+7158840221,7158861319,67226665,"['Kerr Street East', 'Thorburn Street North']",residential,2,nan,FALSE,TRUE,137.66534600743847,,,,no,,asphalt,no,no,
+7158840221,7158861319,67223622,"['Kerr Street East', 'Thorburn Street North']",residential,2,nan,FALSE,TRUE,137.66534600743847,,,,no,,asphalt,no,no,
+7158840221,7158840218,689056888,,footway,,nan,FALSE,TRUE,61.21445866487446,,,,no,,no,no,no,sidewalk
+7158861221,811761176,67223482,Munsee Street South,residential,2,50,FALSE,FALSE,225.24514422250815,,,,no,,asphalt,no,no,
+7158861221,7158861232,67223482,Munsee Street South,residential,2,50,FALSE,TRUE,42.36000121460052,,,,no,,asphalt,no,no,
+7158861221,7158861222,766496803,,service,,nan,FALSE,TRUE,8.209638937,,parking_aisle,,no,,asphalt,no,no,
+7158861222,7158861221,766496803,,service,,nan,FALSE,FALSE,8.209638937,,parking_aisle,,no,,asphalt,no,no,
+7158861222,7158861231,689056874,,footway,,nan,FALSE,FALSE,41.983868395645295,,,,no,,no,no,no,sidewalk
+7158861222,7158861231,766496803,,service,,nan,FALSE,TRUE,66.46015088515503,,parking_aisle,,no,,asphalt,no,no,
+7158861222,6463602004,689056873,,footway,,nan,FALSE,TRUE,225.79856748578223,,,,no,,no,no,no,
+7158861222,6463602004,689056874,,footway,,nan,FALSE,TRUE,225.79856748578223,,,,no,,no,no,no,sidewalk
+7158861231,7158861232,766496803,,service,,nan,FALSE,TRUE,8.191343085483672,,parking_aisle,,no,,asphalt,no,no,
+7158861231,7158861234,689056874,,footway,,nan,FALSE,FALSE,87.46716627654988,,,,no,,no,no,no,sidewalk
+7158861231,7158861222,689056874,,footway,,nan,FALSE,TRUE,41.983868395645295,,,,no,,no,no,no,sidewalk
+7158861231,7158861222,766496803,,service,,nan,FALSE,FALSE,66.46015088515503,,parking_aisle,,no,,asphalt,no,no,
+7158861232,7158861221,67223482,Munsee Street South,residential,2,50,FALSE,FALSE,42.36000121460052,,,,no,,asphalt,no,no,
+7158861232,7158861233,67223482,Munsee Street South,residential,2,50,FALSE,TRUE,87.57434869,,,,no,,asphalt,no,no,
+7158861232,7158861231,766496803,,service,,nan,FALSE,FALSE,8.191343085483672,,parking_aisle,,no,,asphalt,no,no,
+7158861233,7158861232,67223482,Munsee Street South,residential,2,50,FALSE,FALSE,87.57434869,,,,no,,asphalt,no,no,
+7158861233,7158861234,766496804,,service,,nan,FALSE,FALSE,8.080130980181853,,parking_aisle,,no,,asphalt,no,no,
+7158861233,811772004,67223482,Munsee Street South,residential,2,50,FALSE,TRUE,43.643666504319185,,,,no,,asphalt,no,no,
+7158861234,6463602008,689056874,,footway,,nan,FALSE,FALSE,34.975742199858274,,,,no,,no,no,no,sidewalk
+7158861234,7158861233,766496804,,service,,nan,FALSE,TRUE,8.080130980181853,,parking_aisle,,no,,asphalt,no,no,
+7158861234,7158861231,689056874,,footway,,nan,FALSE,TRUE,87.46716627654988,,,,no,,no,no,no,sidewalk
+7158861234,11339644330,766496804,,service,,nan,FALSE,FALSE,65.59308048491586,,parking_aisle,,no,,asphalt,no,no,
+7158861240,811752903,67223887,Joseph Street West,residential,2,nan,FALSE,FALSE,66.69269303858049,,,,no,,asphalt,no,no,
+7158861240,811772004,67223887,Joseph Street West,residential,2,nan,FALSE,TRUE,57.280705444322905,,,,no,,asphalt,no,no,
+7158861240,11339644330,766496804,,service,,nan,FALSE,TRUE,7.418492095190987,,parking_aisle,,no,,asphalt,no,no,
+7158861255,7158861258,628319193,,service,,nan,FALSE,FALSE,22.400503112487588,,,,no,,no,no,no,
+7158861255,7158861258,766496806,,service,,nan,FALSE,TRUE,100.48141202421021,,parking_aisle,,no,,asphalt,no,no,
+7158861255,6463602044,628319193,,service,,nan,FALSE,TRUE,41.80036660971724,,,,no,,no,no,no,
+7158861258,7158861255,628319193,,service,,nan,FALSE,TRUE,22.400503112487588,,,,no,,no,no,no,
+7158861258,7158861255,766496806,,service,,nan,FALSE,FALSE,100.48141202421021,,parking_aisle,,no,,asphalt,no,no,
+7158861258,6463602060,628319193,,service,,nan,FALSE,FALSE,41.286143951792695,,,,no,,no,no,no,
+7158861274,11339644326,766496807,,service,,nan,FALSE,FALSE,59.108547471706586,,parking_aisle,,no,,asphalt,no,no,
+7158861311,7158861313,766496814,,service,1,nan,FALSE,TRUE,67.86125471938557,,alley,,no,,asphalt,no,no,
+7158861313,7158861314,766496814,,service,1,nan,FALSE,TRUE,8.777865186247976,,alley,,no,,asphalt,no,no,
+7158861313,6463584744,689055776,,footway,,nan,FALSE,FALSE,129.16292880565584,,,,no,,no,no,no,sidewalk
+7158861313,6463584744,689055775,,footway,,nan,FALSE,FALSE,129.16292880565584,,,,no,,no,no,no,sidewalk
+7158861313,6463579969,689055775,,footway,,nan,FALSE,TRUE,24.46031233,,,,no,,no,no,no,sidewalk
+7158861313,7158861311,766496814,,service,1,nan,FALSE,FALSE,67.86125471938557,,alley,,no,,asphalt,no,no,
+7158861314,7158861313,766496814,,service,1,nan,FALSE,FALSE,8.777865186247976,,alley,,no,,asphalt,no,no,
+7158861314,811780346,67224214,Cayuga Street North,residential,1,nan,TRUE,FALSE,56.86141707964795,,,,no,,asphalt,no,both,
+7158861315,7158861332,67223622,Thorburn Street North,residential,2,nan,FALSE,FALSE,3.209639532220116,,,,no,,asphalt,no,no,
+7158861315,7158861316,766496815,,service,,nan,FALSE,TRUE,29.03507238280849,,parking_aisle,,no,,asphalt,no,no,
+7158861315,7158840220,67223622,Thorburn Street North,residential,2,nan,FALSE,TRUE,25.723736816528014,,,,no,,asphalt,no,no,
+7158861316,7158861315,766496815,,service,,nan,FALSE,FALSE,29.03507238280849,,parking_aisle,,no,,asphalt,no,no,
+7158861319,7158861332,67223622,Thorburn Street North,residential,2,nan,FALSE,TRUE,34.89457939087965,,,,no,,asphalt,no,no,
+7158861319,7158861320,766496816,,service,,nan,FALSE,TRUE,16.480601802799125,,parking_aisle,,no,,asphalt,no,no,
+7158861319,7158840221,67226665,"['Kerr Street East', 'Thorburn Street North']",residential,2,nan,FALSE,FALSE,137.66534600743847,,,,no,,asphalt,no,no,
+7158861319,7158840221,67223622,"['Kerr Street East', 'Thorburn Street North']",residential,2,nan,FALSE,FALSE,137.66534600743847,,,,no,,asphalt,no,no,
+7158861320,7158861319,766496816,,service,,nan,FALSE,FALSE,16.480601802799125,,parking_aisle,,no,,asphalt,no,no,
+7158861320,7158861328,766496817,,service,,nan,FALSE,FALSE,35.407555925212286,,parking_aisle,,no,,asphalt,no,no,
+7158861320,7158861324,766496817,,service,,nan,FALSE,TRUE,140.55059221715453,,parking_aisle,,no,,asphalt,no,no,
+7158861324,7158861331,766496820,,service,,nan,FALSE,FALSE,3.854118425110109,,parking_aisle,,no,,asphalt,no,no,
+7158861324,7158840218,766496820,,service,,nan,FALSE,TRUE,13.430717055635455,,parking_aisle,,no,,asphalt,no,no,
+7158861324,7158861320,766496817,,service,,nan,FALSE,FALSE,140.55059221715453,,parking_aisle,,no,,asphalt,no,no,
+7158861325,6463584777,689055787,,footway,,nan,FALSE,TRUE,60.58256767518097,,,,no,,no,no,no,sidewalk
+7158861325,7158861326,766496818,,service,,nan,FALSE,FALSE,8.013627557129553,,parking_aisle,,no,,asphalt,no,no,
+7158861325,7158861327,766496818,,service,,nan,FALSE,TRUE,10.099809304948332,,parking_aisle,,no,,asphalt,no,no,
+7158861325,7158840220,689055787,,footway,,nan,FALSE,FALSE,49.6849934,,,,no,,no,no,no,sidewalk
+7158861326,11339644326,766496807,,service,,nan,FALSE,TRUE,8.678642084369658,,parking_aisle,,no,,asphalt,no,no,
+7158861326,7158861325,766496818,,service,,nan,FALSE,TRUE,8.013627557129553,,parking_aisle,,no,,asphalt,no,no,
+7158861326,811765499,766496825,Talbot Street East,primary,2,50,FALSE,FALSE,49.658054000810345,,,,no,,asphalt,yes,no,
+7158861326,811762852,766496825,Talbot Street East,primary,2,50,FALSE,TRUE,70.86706242161644,,,,no,,asphalt,yes,no,
+7158861327,7158861325,766496818,,service,,nan,FALSE,FALSE,10.099809304948332,,parking_aisle,,no,,asphalt,no,no,
+7158861327,7158861328,766496819,,service,,nan,FALSE,FALSE,47.75837273,,parking_aisle,,no,,asphalt,no,no,
+7158861327,7158861331,766496819,,service,,nan,FALSE,TRUE,70.86771436851426,,parking_aisle,,no,,asphalt,no,no,
+7158861328,7158861332,766496820,,service,,nan,FALSE,FALSE,20.106073023279095,,parking_aisle,,no,,asphalt,no,no,
+7158861328,7158861320,766496817,,service,,nan,FALSE,TRUE,35.407555925212286,,parking_aisle,,no,,asphalt,no,no,
+7158861328,7158861327,766496819,,service,,nan,FALSE,TRUE,47.75837273,,parking_aisle,,no,,asphalt,no,no,
+7158861328,7158861331,766496820,,service,,nan,FALSE,TRUE,81.35848617627722,,parking_aisle,,no,,asphalt,no,no,
+7158861331,7158861324,766496820,,service,,nan,FALSE,TRUE,3.854118425110109,,parking_aisle,,no,,asphalt,no,no,
+7158861331,7158861327,766496819,,service,,nan,FALSE,FALSE,70.86771436851426,,parking_aisle,,no,,asphalt,no,no,
+7158861331,7158861328,766496820,,service,,nan,FALSE,FALSE,81.35848617627722,,parking_aisle,,no,,asphalt,no,no,
+7158861332,7158861319,67223622,Thorburn Street North,residential,2,nan,FALSE,FALSE,34.89457939087965,,,,no,,asphalt,no,no,
+7158861332,7158861315,67223622,Thorburn Street North,residential,2,nan,FALSE,TRUE,3.209639532220116,,,,no,,asphalt,no,no,
+7158861332,7158861328,766496820,,service,,nan,FALSE,TRUE,20.106073023279095,,parking_aisle,,no,,asphalt,no,no,
+7158861335,811755817,67224605,Winnett Street North,residential,2,nan,FALSE,FALSE,61.06509738799529,,,,no,,asphalt,no,no,
+7158861335,7158840218,766496820,,service,,nan,FALSE,FALSE,4.175897139245556,,parking_aisle,,no,,asphalt,no,no,
+7158861335,6463584778,67224605,Winnett Street North,residential,2,nan,FALSE,TRUE,32.94901234348017,,,,no,,asphalt,no,no,
+7158861336,6463584711,689055768,,footway,,nan,FALSE,TRUE,79.70338452679161,,,,no,,no,no,no,sidewalk
+7158861336,7158861345,766496822,,service,,nan,FALSE,TRUE,8.360405285675094,,parking_aisle,,no,,asphalt,no,no,
+7158861336,6463584730,689055768,,footway,,nan,FALSE,FALSE,22.091528486981808,,,,no,,no,no,no,sidewalk
+7158861336,7158861343,766496822,,service,,nan,FALSE,FALSE,66.31028300712764,,parking_aisle,,no,,asphalt,no,no,
+7158861337,7158861342,766496821,,service,,nan,FALSE,TRUE,5.7248148985394325,,parking_aisle,,no,,asphalt,no,no,
+7158861337,6463601997,689056868,,footway,,nan,FALSE,FALSE,74.26936953893822,,,,no,,no,no,no,sidewalk
+7158861337,6463601997,689056869,,footway,,nan,FALSE,FALSE,74.26936953893822,,,,marked,lines,no,no,no,crossing
+7158861337,6463584732,689056868,,footway,,nan,FALSE,TRUE,16.83951084123736,,,,no,,no,no,no,sidewalk
+7158861337,7158861338,766496821,,service,,nan,FALSE,FALSE,71.71429140846122,,parking_aisle,,no,,asphalt,no,no,
+7158861338,6463584733,689056885,,footway,,nan,FALSE,FALSE,52.21819123759459,,,,no,,no,no,no,sidewalk
+7158861338,7158861339,766496821,,service,,nan,FALSE,FALSE,8.163152673,,parking_aisle,,no,,asphalt,no,no,
+7158861338,6463602062,689056884,,footway,,nan,FALSE,TRUE,59.08522662415397,,,,marked,lines,no,no,no,crossing
+7158861338,6463602062,689056885,,footway,,nan,FALSE,TRUE,59.08522662415397,,,,no,,no,no,no,sidewalk
+7158861338,7158861337,766496821,,service,,nan,FALSE,TRUE,71.71429140846122,,parking_aisle,,no,,asphalt,no,no,
+7158861339,7158861338,766496821,,service,,nan,FALSE,TRUE,8.163152673,,parking_aisle,,no,,asphalt,no,no,
+7158861339,811762852,766496825,Talbot Street East,primary,2,50,FALSE,FALSE,59.281845420457934,,,,no,,asphalt,yes,no,
+7158861339,3912827460,244291656,Talbot Street East,primary,3,50,FALSE,TRUE,51.994957336471785,,,,no,,asphalt,yes,no,
+7158861339,3912827460,766496825,Talbot Street East,primary,3,50,FALSE,TRUE,51.994957336471785,,,,no,,asphalt,yes,no,
+7158861342,3912827458,67223482,Munsee Street South,residential,2,50,FALSE,FALSE,16.434449124764754,,,,no,,asphalt,no,no,
+7158861342,7158861343,67223482,Munsee Street South,residential,2,50,FALSE,TRUE,16.842284260312542,,,,no,,asphalt,no,no,
+7158861342,7158861337,766496821,,service,,nan,FALSE,FALSE,5.7248148985394325,,parking_aisle,,no,,asphalt,no,no,
+7158861343,7158861342,67223482,Munsee Street South,residential,2,50,FALSE,FALSE,16.842284260312542,,,,no,,asphalt,no,no,
+7158861343,811772584,67223482,Munsee Street South,residential,2,50,FALSE,TRUE,57.04321235675033,,,,no,,asphalt,no,no,
+7158861343,7158861336,766496822,,service,,nan,FALSE,TRUE,66.31028300712764,,parking_aisle,,no,,asphalt,no,no,
+7158861345,7158861336,766496822,,service,,nan,FALSE,FALSE,8.360405285675094,,parking_aisle,,no,,asphalt,no,no,
+7158861345,7158861352,766496824,Talbot Street West,primary,3,50,FALSE,FALSE,12.596264551533618,,,,no,,asphalt,no,no,
+7158861345,811778283,766496824,Talbot Street West,primary,3,50,FALSE,TRUE,88.57272430920325,,,,no,,asphalt,no,no,
+7158861345,811778283,67222870,Talbot Street West,primary,3,50,FALSE,TRUE,88.57272430920325,,,,no,,asphalt,no,no,
+7158861348,6463584763,67222638,Munsee Street North,secondary,2,50,FALSE,FALSE,52.82657764080116,,,,no,,asphalt,yes,right,
+7158861348,3912827461,766496823,Munsee Street North,secondary,3,50,FALSE,TRUE,31.760146080553785,,,,no,,asphalt,yes,right,
+7158861348,11339644325,766496826,,service,,nan,FALSE,TRUE,53.81822030335147,,parking_aisle,destination,no,,asphalt,no,no,
+7158861352,3912827459,766496824,Talbot Street West,primary,3,50,FALSE,FALSE,10.001246791096266,,,,no,,asphalt,no,no,
+7158861352,7158861345,766496824,Talbot Street West,primary,3,50,FALSE,TRUE,12.596264551533618,,,,no,,asphalt,no,no,
+7158861352,11339644325,766496826,,service,,nan,FALSE,FALSE,8.020754752933634,,parking_aisle,destination,no,,asphalt,no,no,
+7158861357,7158861381,67225552,Ouse Street North,residential,2,nan,FALSE,FALSE,32.90663153961313,,,,no,,asphalt,no,no,
+7158861357,811766886,67225552,Ouse Street North,residential,2,nan,FALSE,TRUE,9.942695448,,,,no,,asphalt,no,no,
+7158861357,6463579910,689055738,,footway,,nan,FALSE,FALSE,96.28815292768317,,,,no,,no,no,no,sidewalk
+7158861357,6463579910,689055740,,footway,,nan,FALSE,FALSE,96.28815292768317,,,,no,,no,no,no,sidewalk
+7158861367,811751988,766496830,,service,,nan,FALSE,FALSE,9.321749149,,parking_aisle,,no,,asphalt,no,no,
+7158861367,7158861373,766496830,,service,,nan,FALSE,TRUE,50.64867563753354,,parking_aisle,,no,,asphalt,no,no,
+7158861367,811767501,689055747,,footway,,nan,FALSE,FALSE,24.33505347468597,,,,no,,no,no,no,sidewalk
+7158861367,6463579953,689055747,,footway,,nan,FALSE,TRUE,52.376126736614054,,,,no,,no,no,no,sidewalk
+7158861372,811767501,766496829,,service,,nan,FALSE,FALSE,21.317488190612885,,parking_aisle,,no,,asphalt,no,no,
+7158861373,7158861367,766496830,,service,,nan,FALSE,FALSE,50.64867563753354,,parking_aisle,,no,,asphalt,no,no,
+7158861376,811751988,67223822,King Street,residential,2,nan,FALSE,FALSE,20.474004221539005,,,,no,,asphalt,no,no,
+7158861376,6463579914,67223822,King Street,residential,2,nan,FALSE,TRUE,31.650604436041135,,,,no,,asphalt,no,no,
+7158861376,7158861381,766496831,,service,,nan,FALSE,TRUE,143.6570719389006,,alley,private,no,,gravel,no,no,
+7158861381,811768306,67225552,Ouse Street North,residential,2,nan,FALSE,FALSE,99.89534572264367,,,,no,,asphalt,no,no,
+7158861381,7158861357,67225552,Ouse Street North,residential,2,nan,FALSE,TRUE,32.90663153961313,,,,no,,asphalt,no,no,
+7158861381,7158861376,766496831,,service,,nan,FALSE,FALSE,143.6570719389006,,alley,private,no,,gravel,no,no,
+7158861392,7158861393,766496832,,service,,nan,FALSE,TRUE,109.80397924645217,,parking_aisle,,no,,asphalt,no,no,
+7158861392,7158861393,766496833,,service,,nan,FALSE,FALSE,238.88422183238012,,parking_aisle,,no,,asphalt,no,no,
+7158861392,811754844,766496832,,service,,nan,FALSE,FALSE,36.39507577566257,,parking_aisle,,no,,asphalt,no,no,
+7158861393,7158861392,766496832,,service,,nan,FALSE,FALSE,109.80397924645217,,parking_aisle,,no,,asphalt,no,no,
+7158861393,7158861392,766496833,,service,,nan,FALSE,TRUE,238.88422183238012,,parking_aisle,,no,,asphalt,no,no,
+7158861393,7158861394,766496833,,service,,nan,FALSE,FALSE,32.83926538241592,,parking_aisle,,no,,asphalt,no,no,
+7158861394,811779502,67222714,Thorburn Street South,secondary,2,nan,FALSE,FALSE,88.15825120491218,,,,no,,asphalt,no,no,
+7158861394,811754844,67222714,Thorburn Street South,secondary,2,nan,FALSE,TRUE,112.32887851943006,,,,no,,asphalt,no,no,
+7158861394,7158861393,766496833,,service,,nan,FALSE,TRUE,32.83926538241592,,parking_aisle,,no,,asphalt,no,no,
+7158861396,7158861398,766496834,,service,,nan,FALSE,TRUE,68.62907349004539,,parking_aisle,,no,,asphalt,no,no,
+7158861398,811779772,67222822,Talbot Street East,primary,2,50,FALSE,FALSE,301.7649929256433,,,,no,,asphalt,no,no,
+7158861398,811755655,67222822,Talbot Street East,primary,2,50,FALSE,TRUE,62.31670075386815,,,,no,,asphalt,no,no,
+7158861398,7158861396,766496834,,service,,nan,FALSE,FALSE,68.62907349004539,,parking_aisle,,no,,asphalt,no,no,
+7158861399,4087046832,406657489,,service,,nan,FALSE,FALSE,29.902575300060104,,parking_aisle,,no,,no,no,no,
+7158861399,4087046842,406657489,,service,,nan,FALSE,TRUE,30.412183539852794,,parking_aisle,,no,,no,no,no,
+7158861399,7158861401,766496835,,service,,nan,FALSE,TRUE,74.87732719,,parking_aisle,,no,,concrete,no,no,
+7158861401,7158861402,766496836,,service,,nan,FALSE,FALSE,25.61719166657866,,parking_aisle,,no,,concrete,no,no,
+7158861401,7158861403,766496836,,service,,nan,FALSE,TRUE,44.47848556247629,,parking_aisle,,no,,concrete,no,no,
+7158861401,7158861399,766496835,,service,,nan,FALSE,FALSE,74.87732719,,parking_aisle,,no,,concrete,no,no,
+7158861402,7158861401,766496836,,service,,nan,FALSE,TRUE,25.61719166657866,,parking_aisle,,no,,concrete,no,no,
+7158861403,4087046842,406657487,,service,,nan,FALSE,FALSE,7.434661950511945,,parking_aisle,,no,,asphalt,no,no,
+7158861403,811755655,406657487,,service,,nan,FALSE,TRUE,28.299556443139384,,parking_aisle,,no,,asphalt,no,no,
+7158861403,7158861401,766496836,,service,,nan,FALSE,FALSE,44.47848556247629,,parking_aisle,,no,,concrete,no,no,
+7158861422,811766415,766496840,Cayuga Street North,residential,2,nan,FALSE,FALSE,70.33352053502881,,,,no,,asphalt,no,no,
+7158861422,7158861423,766496840,Cayuga Street North,residential,2,nan,FALSE,TRUE,11.91067613688593,,,,no,,asphalt,no,no,
+7158861422,6463579966,689055749,,footway,,nan,FALSE,FALSE,21.77240626779945,,,,no,,no,no,no,sidewalk
+7158861423,7158861422,766496840,Cayuga Street North,residential,2,nan,FALSE,FALSE,11.91067613688593,,,,no,,asphalt,no,no,
+7158861423,6463579966,689055749,,footway,,nan,FALSE,TRUE,23.81817365706945,,,,no,,no,no,no,sidewalk
+7158861423,811780346,766496840,Cayuga Street North,residential,2,nan,FALSE,TRUE,43.24356833683196,,,,no,,asphalt,no,no,
+7168038498,416699005,67224878,Victoria Street,residential,2,nan,FALSE,FALSE,57.90397435857085,,,,no,,asphalt,no,no,
+7168038498,7168038632,67224878,Victoria Street,residential,2,nan,FALSE,TRUE,23.54940534411057,,,,no,,asphalt,no,no,
+7168038498,6463579944,689055745,,footway,,nan,FALSE,TRUE,17.22826438053264,,,,no,,no,no,no,sidewalk
+7168038590,7168038591,767730701,,service,,nan,FALSE,TRUE,13.251712953143057,,parking_aisle,,no,,no,no,no,
+7168038590,416696374,67226303,Highway 54 Haldimand,secondary,2,70,FALSE,TRUE,347.96229667566934,,,,no,,asphalt,no,no,
+7168038591,7168038590,767730701,,service,,nan,FALSE,FALSE,13.251712953143057,,parking_aisle,,no,,no,no,no,
+7168038591,3912831202,767730702,,footway,,nan,FALSE,FALSE,514.7466525194135,,,,no,,asphalt,no,no,sidewalk
+7168038632,7168038498,67224878,Victoria Street,residential,2,nan,FALSE,FALSE,23.54940534411057,,,,no,,asphalt,no,no,
+7168038632,811765587,67224878,Victoria Street,residential,2,nan,FALSE,TRUE,25.800399552354587,,,,no,,asphalt,no,no,
+7168038632,705613710,687284961,"['Grand Vista Trail', 'Grand Vista']",footway,,nan,FALSE,FALSE,570.9200535015549,yes,,,no,,no,no,no,
+7168038632,705613710,1330449866,"['Grand Vista Trail', 'Grand Vista']",footway,,nan,FALSE,FALSE,570.9200535015549,yes,,,no,,no,no,no,
+7168038632,705613710,687284959,"['Grand Vista Trail', 'Grand Vista']",footway,,nan,FALSE,FALSE,570.9200535015549,yes,,,no,,no,no,no,
+7270847024,7270847031,67222947,River Road,residential,2,nan,FALSE,FALSE,49.88944292289574,,,,no,,asphalt,no,none,
+7270847024,7270847031,778727312,,service,,nan,FALSE,FALSE,213.28153877167006,,,,no,,no,no,no,
+7270847024,811779065,67222947,River Road,residential,2,nan,FALSE,TRUE,484.70041900079417,,,,no,,asphalt,no,none,
+7270847031,7270847024,67222947,River Road,residential,2,nan,FALSE,TRUE,49.88944292289574,,,,no,,asphalt,no,none,
+7270847031,7270847024,778727312,,service,,nan,FALSE,TRUE,213.28153877167006,,,,no,,no,no,no,
+7270847031,416699079,67222947,River Road,residential,2,nan,FALSE,FALSE,171.98499082916172,,,,no,,asphalt,no,none,
+9525603768,811778283,67222870,Talbot Street West,primary,2,50,FALSE,FALSE,70.36419696,,,,no,,asphalt,no,no,
+9525603768,6463579973,67222870,Talbot Street West,primary,2,50,FALSE,TRUE,46.396357681682986,,,,no,,asphalt,no,no,
+9525603768,9525603769,1033983667,,service,,nan,FALSE,TRUE,7.068802436475011,,parking_aisle,destination,no,,asphalt,no,no,
+9525603769,9525603768,1033983667,,service,,nan,FALSE,FALSE,7.068802436475011,,parking_aisle,destination,no,,asphalt,no,no,
+9525603769,6463584712,689055761,,footway,,nan,FALSE,FALSE,70.10695299025575,,,,no,,no,no,no,sidewalk
+9525603769,6463584712,689055762,,footway,,nan,FALSE,FALSE,70.10695299025575,,,,marked,lines,no,no,no,crossing
+9525603769,6463579974,689055761,,footway,,nan,FALSE,TRUE,51.39977216630583,,,,no,,no,no,no,sidewalk
+9525603769,9525603774,1033983667,,service,,nan,FALSE,TRUE,74.35929675338389,,parking_aisle,destination,no,,asphalt,no,no,
+9525603774,811756161,1033983667,,service,,nan,FALSE,TRUE,10.467826265672779,,parking_aisle,destination,no,,asphalt,no,no,
+9525603774,6463579974,689055760,,footway,,nan,FALSE,FALSE,45.17859523487899,,,,no,,no,no,no,sidewalk
+9525603774,6463584707,689055760,,footway,,nan,FALSE,TRUE,55.229442399700886,,,,no,,no,no,no,sidewalk
+9525603774,9525603769,1033983667,,service,,nan,FALSE,FALSE,74.35929675338389,,parking_aisle,destination,no,,asphalt,no,no,
+11339644307,6463602060,689056883,,footway,,nan,FALSE,TRUE,86.89041826211708,,,,no,,no,no,no,sidewalk
+11339644307,6463602063,689056883,,footway,,nan,FALSE,FALSE,7.8686451037332175,,,,no,,no,no,no,sidewalk
+11339644307,11339644311,1222621894,,footway,,nan,FALSE,FALSE,35.17417547722409,,,,no,,no,no,no,
+11339644311,11339644326,689056883,,footway,,nan,FALSE,FALSE,11.90713941792542,,,,no,,no,no,no,sidewalk
+11339644311,6463602063,689056883,,footway,,nan,FALSE,TRUE,27.37669865326143,,,,no,,no,no,no,sidewalk
+11339644311,11339644307,1222621894,,footway,,nan,FALSE,TRUE,35.17417547722408,,,,no,,no,no,no,
+11339644321,11339644323,1222621895,,footway,,nan,FALSE,FALSE,17.563800549318717,,,,no,,no,no,no,
+11339644323,811757792,67222684,Seneca Street South,residential,2,nan,FALSE,FALSE,54.18256682383443,,,,no,,asphalt,no,no,
+11339644323,4087050625,67222684,Seneca Street South,residential,2,nan,FALSE,TRUE,22.36337898904468,,,,no,,asphalt,no,no,
+11339644323,11339644321,1222621895,,footway,,nan,FALSE,TRUE,17.563800549318717,,,,no,,no,no,no,
+11339644325,6463584746,689055773,,footway,,nan,FALSE,FALSE,92.35326639,,,,no,,no,no,no,sidewalk
+11339644325,6463584729,689055773,,footway,,nan,FALSE,TRUE,11.13855968068431,,,,no,,no,no,no,sidewalk
+11339644325,7158861352,766496826,,service,,nan,FALSE,TRUE,8.020754752933634,,parking_aisle,destination,no,,asphalt,no,no,
+11339644325,7158861348,766496826,,service,,nan,FALSE,FALSE,53.81822030335147,,parking_aisle,destination,no,,asphalt,no,no,
+11339644326,11339644311,689056883,,footway,,nan,FALSE,TRUE,11.90713941792542,,,,no,,no,no,no,sidewalk
+11339644326,7158861326,766496807,,service,,nan,FALSE,FALSE,8.678642084369658,,parking_aisle,,no,,asphalt,no,no,
+11339644326,6463602062,689056883,,footway,,nan,FALSE,FALSE,70.68820524,,,,no,,no,no,no,sidewalk
+11339644326,6463602062,689056884,,footway,,nan,FALSE,FALSE,70.68820524,,,,marked,lines,no,no,no,crossing
+11339644326,7158861274,766496807,,service,,nan,FALSE,TRUE,59.108547471706586,,parking_aisle,,no,,asphalt,no,no,
+11339644330,6463602008,689056875,,footway,,nan,FALSE,TRUE,47.46116771819247,,,,no,,no,no,no,sidewalk
+11339644330,7158861240,766496804,,service,,nan,FALSE,FALSE,7.418492095190987,,parking_aisle,,no,,asphalt,no,no,
+11339644330,6463602013,689056875,,footway,,nan,FALSE,FALSE,184.55212424023173,,,,no,,no,no,no,sidewalk
+11339644330,6463602013,689056876,,footway,,nan,FALSE,FALSE,184.55212424023173,,,,marked,lines,no,no,no,crossing
+11339644330,7158861234,766496804,,service,,nan,FALSE,TRUE,65.59308048491586,,parking_aisle,,no,,asphalt,no,no,
+12459619671,12459630524,1346958060,,path,,nan,FALSE,TRUE,398.6080348559617,,,,no,,no,no,no,
+12459619682,12459630555,1346958058,,path,,nan,FALSE,TRUE,80.76655149595197,,,,no,,no,no,no,
+12459630524,12459619671,1346958060,,path,,nan,FALSE,FALSE,398.6080348559617,,,,no,,no,no,no,
+12459630555,12459619682,1346958058,,path,,nan,FALSE,FALSE,80.76655149595197,,,,no,,no,no,no,
